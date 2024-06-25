@@ -53,8 +53,7 @@ I have published more than 30 papers at the top international AI conferences wit
 - (21) Liu, Q.; Chen, T.; Guo, Y.; Zhang, Z.; Fang, X. Ultrathin G-C3N4 Nanosheets Coupled with Carbon Nanodots as 2D/0D Composites for Efficient Photocatalytic H2 Evolution. **Appl. Catal. B Environ.** 2016, 193, 248–258.
 
 # 🎖 Honors and Awards
--  
-- 
+- FS Outstanding PhD Thesis Award 2022/23 at PolyU
 
 # 📖 Educations
 - Sep. 2019 – Oct. 2022, PhD, Chemistry, The Hong Kong Polytechnic University (Hong Kong), Dr. Lo Tsz Woon Benedict
