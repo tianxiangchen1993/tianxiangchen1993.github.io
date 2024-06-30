@@ -56,7 +56,7 @@ I have published more than 30 papers with total <a href='https://scholar.google.
 - FS Outstanding PhD Thesis Award 2022/23 at PolyU
 
 # 📖 Educations
-- Sep. 2019 – Oct. 2022, PhD, Chemistry, The Hong Kong Polytechnic University (Hong Kong), Dr. Lo Tsz Woon Benedict
+- Sep. 2019 – Oct. 2022, PhD, Chemistry, The Hong Kong Polytechnic University (Hong Kong), Prof. Lo Tsz Woon Benedict
 - Apr. 2022 – Aug. 2022, Visiting PhD student,Chemistry, University of Manchester (United Kingdom), Prof. Yang Sihai
 - Sep. 2015 ‐ May. 2018, M.E., Chemical Engineering, South China University of Technology (China), Prof. Fang Xiaoming
 - Sep. 2012 ‐ July 2015, B.S., Applied Chemistry, Guangxi University (China), Prof. Li Bin
