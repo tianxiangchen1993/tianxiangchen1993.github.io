@@ -22,17 +22,20 @@ My research focuses on the rational design and characterisation of atomically pr
 I have published more than 30 papers with total <a href='https://scholar.google.com/citations?user=_Gdrw7UAAAAJ'>google scholar citations <strong><span id='total_cit'>1100+</span></strong></a> (<a href='https://scholar.google.com/citations?user=_Gdrw7UAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
-# 🔥 News
-- 
+# 🔥 Selected Publications
+- (1) <font color="red"><strong>Chen, Tianxiang#</strong></font>; Yu, Wenhua#; Wun, Ching Kit Tommy; Wu, Tai Sing; Sun, Mingzi; Day, Sarah J.; Li, Zehao; Yuan, Bo; Wang, Yong; Li, Mingjie; Wang, Zi; Peng, Yung Kang; Yu, Wing Yiu; Wong, Kwok Yin; Huang, Bolong\*; Liang, Taoyuan\*; Lo, Tsz Woon Benedict*. Cu-Co Dual-Atom Catalysts Supported on Hierarchical USY Zeolites for an Efficient Cross-Dehydrogenative C(Sp2)-N Coupling Reaction. <font color="blue"><strong>J. Am. Chem. Soc.</strong></font> 2023, 145 (15), 8273–8734.
+- (2) <font color="red"><strong>Chen, Tianxiang</strong></font>; Huang, Bolong; Day, Sarah; Tang, Chiu Chung; Tsang, Shik Chi Edman; Wong, Kwok-yin; Lo, Tsz Woon Benedict. Differential Adsorption of L- and d-Lysine on Achiral MFI Zeolites as Determined by Synchrotron X-Ray Powder Diffraction and Thermogravimetric Analysis. <font color="blue"><strong>Angew. Chem. Int. Ed.</strong></font> 2020, 59 (3), 1093–1097.
 
 
-# 📝 Publications 
-  **First, co-first author, co-responding author**---------------------------------------------------------------------------------------------------------------------------------------------------------------------(**14/34**)
+# 📝 Publications
 
+<div align=center> <table><tr><td bgcolor=lightgrey>(<font color="Blue"><strong>14</strong></font>/35) First, co-first(#), co-responding author(*) </td></tr></table> </div> 
 **2024**
-- (14)	Fu, Guozhang; Li, Yunong; Hou, Zhuoqun; Wang, Shasha; Jiang, Shaohua; **Chen, Tianxiang***; Benedict Lo, Tsz Woon*; Chen, Xiuwen*. Diatomic Cobalt–Catalyzed Cyclization of o-Aminobenzyl Alcohol with Amidine for the Synthesis of Quinazolines. **J. Catal**. 2024, 115889.
-- (13)	Liu, Hao#; Chu, Bingxian#; **Chen, Tianxiang#**; Zhou, Jie; Dong, Lihui; Lo, Tsz Woon Benedict; Li, Bin; He, Xiaohui; Ji, Hongbing. Modulation of the Cobalt Species State on Zincosilicate to Maximize Propane Dehydrogenation to Propylene. **Chinese J. Catal**. 2024, 66, 168–180.
-- (12)	Zhu, Chaofeng#; Li, Wenying#; **Chen, Tianxiang#**; He, Zhe; Villalobos, Eduardo; Marini, Carlo; Zhou, Jian; Woon Lo, Benedict Tsz; Xiao, Hai; Liu, Lichen. Boosting the Stability of Subnanometer Pt Catalysts by the Presence of Framework Indium(III) Sites in Zeolite. **Angew. Chem. Int. Ed**. 2024, 63 (41), e202409784.
+- (14) Fu, Guozhang; Li, Yunong; Hou, Zhuoqun; Wang, Shasha; Jiang, Shaohua; <font color="red"><strong>Chen, Tianxiang*</strong></font>; Lo, Tsz Woon Benedict\*; Chen, Xiuwen\*. Diatomic Cobalt–Catalyzed Cyclization of o-Aminobenzyl Alcohol with Amidine for the Synthesis of Quinazolines. <font color="blue"><strong>J. Catal.</strong></font> 2024, 115889.
+- (13) Liu, Hao#; Chu, Bingxian#; <font color="red"><strong>Chen, Tianxiang#</strong></font>; Zhou, Jie; Dong, Lihui; Lo, Tsz Woon Benedict; Li, Bin\*; He, Xiaohui\*; Ji, Hongbing\*. Modulation of the Cobalt Species State on Zincosilicate to Maximize Propane Dehydrogenation to Propylene. <font color="blue"><strong>Chinese J. Catal.</strong></font> 2024, 66, 168–180.
+- (12) Zhu, Chaofeng#; Li, Wenying#; <font color="red"><strong>Chen, Tianxiang#</strong></font>; He, Zhe; Villalobos, Eduardo; Marini, Carlo; Zhou, Jian; Lo, Tsz Woon Benedict; Xiao, Hai; Liu, Lichen\*. Boosting the Stability of Subnanometer Pt Catalysts by the Presence of Framework Indium(III) Sites in Zeolite. <font color="blue"><strong>Angew. Chem. Int. Ed.</strong></font>. 2024, 63 (41), e202409784.
+
+---
 
 **2023**
 - (11)	**Chen, Tianxiang**; Yu, Wenhua; Wun, Ching Kit Tommy; Wu, Tai Sing; Sun, Mingzi; Day, Sarah J.; Li, Zehao; Yuan, Bo; Wang, Yong; Li, Mingjie; Wang, Zi; Peng, Yung Kang; Yu, Wing Yiu; Wong, Kwok Yin; Huang, Bolong; Liang, Taoyuan; Lo, Tsz Woon Benedict. Cu-Co Dual-Atom Catalysts Supported on Hierarchical USY Zeolites for an Efficient Cross-Dehydrogenative C(Sp2)-N Coupling Reaction. **J. Am. Chem. Soc.** 2023, 145 (15), 8273–8734.
