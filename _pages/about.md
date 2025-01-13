@@ -22,17 +22,18 @@ My research focuses on the rational design and characterisation of atomically pr
 I have published more than 30 papers with total <a href='https://scholar.google.com/citations?user=_Gdrw7UAAAAJ'>google scholar citations <strong><span id='total_cit'>1100+</span></strong></a> (<a href='https://scholar.google.com/citations?user=_Gdrw7UAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
-# 🔥 Selected Publications
+# 🔥 News
+
+
+# 📝 Publications
+**Selected Publications**
 - (1) <font color="red"><strong>Chen, Tianxiang#</strong></font>; Yu, Wenhua#; Wun, Ching Kit Tommy; Wu, Tai Sing; Sun, Mingzi; Day, Sarah J.; Li, Zehao; Yuan, Bo; Wang, Yong; Li, Mingjie; Wang, Zi; Peng, Yung Kang; Yu, Wing Yiu; Wong, Kwok Yin; Huang, Bolong\*; Liang, Taoyuan\*; Lo, Tsz Woon Benedict*. Cu-Co Dual-Atom Catalysts Supported on Hierarchical USY Zeolites for an Efficient Cross-Dehydrogenative C(Sp2)-N Coupling Reaction. <font color="blue"><strong>J. Am. Chem. Soc.</strong></font> 2023, 145 (15), 8273–8734.
 - (2) <font color="red"><strong>Chen, Tianxiang</strong></font>; Huang, Bolong; Day, Sarah; Tang, Chiu Chung; Tsang, Shik Chi Edman; Wong, Kwok-yin; Lo, Tsz Woon Benedict\*. Differential Adsorption of L- and d-Lysine on Achiral MFI Zeolites as Determined by Synchrotron X-Ray Powder Diffraction and Thermogravimetric Analysis. <font color="blue"><strong>Angew. Chem. Int. Ed.</strong></font> 2020, 59 (3), 1093–1097.
 - (3)
 - (4)
 - (5)
 
-
-# 📝 Publications
-
-<div align=center> <table><tr><td bgcolor=lightgrey>(<font color="Blue"><strong>15</strong></font>/36) First, co-first(#), co-responding author(*) </td></tr></table> </div> 
+<div align=center> <table><tr><td bgcolor=lightgrey>(<font color="Blue"><strong>15</strong></font>/37) First, co-first(#), co-responding author(*) </td></tr></table> </div> 
 
 **2025**
 - (15) He, Zhe#; Li, Kailang#; <font color="red"><strong>Chen, Tianxiang#</strong></font>; Feng, Yunchao; Villalobos-Portillo, Eduardo; Marini, Carlo; Lo, Tsz Woon Benedict\*; Yang, Fuyuan\*; Zhang, Liang\*; Liu, Lichen\*. High-Purity Hydrogen Production from Dehydrogenation of Methylcyclohexane Catalyzed by Zeolite-Encapsulated Subnanometer Platinum-Iron Clusters. <font color="blue"><strong>Nat. Commun.</strong></font> 2025, 16 (1), 92.
@@ -77,7 +78,11 @@ I have published more than 30 papers with total <a href='https://scholar.google.
 
 ---
 
-<div align=center> <table><tr><td bgcolor=lightgrey>(<font color="Blue"><strong>21</strong></font>/36) Collaborations </td></tr></table> </div> 
+<div align=center> <table><tr><td bgcolor=lightgrey>(<font color="Blue"><strong>22</strong></font>/37) Collaborations </td></tr></table> </div> 
+- （22）Dou, Xiaomeng; Yan, Tao; Li, Wenying; Zhu, Chaofeng; <font color="red"><strong>Chen, Tianxiang</strong></font>; Lo, Benedict Tsz Woon; Marini, Carlo; Xiao, Hai; Liu, Lichen. Structure–Reactivity Relationship of Zeolite-Confined Rh Catalysts for Hydroformylation of Linear α-Olefins. <font color="blue"><strong>J. Am. Chem. Soc.</strong></font> 2025.
+
+---
+
 **2024**
 - (21) Li, Yaxing#; Li, Xiaoyu#; Zhang, Haotian; He, Jiayi; Su, Kaining; <font color="red"><strong>Chen, Tianxiang</strong></font>; Zhang, Ruolin; Xu, Hua; Wu, Yuchao *; Yang, Weisheng *; Liu, Lichen *. Tuning the Spatial Distribution and Chemical Nature of Acid Sites in MCM-22 Zeolite by Atomically Dispersed Lanthanum Species for Alkylation of 2-Methylnaphthalene. <font color="blue"><strong>ACS Catal.</strong></font> 2024, 623–638.
 - (20)  Zhang, Jinwen; Ding, Hongxin; Hui, Hehua; Yao, Qingying; Feng, Wenhua; <font color="red"><strong>Chen, Tianxiang</strong></font>; Lo, Tsz Woon Benedict; Ren, Yuanhang; Ye, Lin; Yue, Bin; He, Heyong. Confined Cu Single Sites in ZSM-5 for Photocatalytic Hydroxylation of Benzene to Phenol. <font color="blue"><strong>Small</strong></font> 2024, 2405150.
