@@ -19,7 +19,7 @@ redirect_from:
 
 My research focuses on the rational design and characterisation of atomically precise metal clusters in zeolites. Such as Molecular assembly of (1) multinuclear Cux in ZSM-5 (x = 1, 2, 3), (2) dual-atom Cu-M catalyst in hierarchical USY zeolites and (3) genome engineering of trinuclear metal clusters in ZSM-5 zeolites (MA-MB-MC/ZSM-5, M = 3d metal ions). I am also interested in the structure-activity correlations of supported metal clusters in reactions by exploiting a combination of in-situ/operando diffraction and spectroscopic techniques. For instance: (1) synchrotron X-ray/neutron diffraction combined with Rietveld refinement, x-ray absorption spectroscopy (XAS), and (2) X-ray/neutron total scattering (Pair-distribution function analysis, PDF).
 
-I have published more than 30 papers with total <a href='https://scholar.google.com/citations?user=_Gdrw7UAAAAJ'>google scholar citations <strong><span id='total_cit'>1100+</span></strong></a> (<a href='https://scholar.google.com/citations?user=_Gdrw7UAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I have published more than 40 papers with total <a href='https://scholar.google.com/citations?user=_Gdrw7UAAAAJ'>google scholar citations <strong><span id='total_cit'>1400+</span></strong></a> (<a href='https://scholar.google.com/citations?user=_Gdrw7UAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
@@ -33,7 +33,7 @@ I have published more than 30 papers with total <a href='https://scholar.google.
 - (4)
 - (5)
 
-<div align=center> <table><tr><td bgcolor=lightgrey>(<font color="Blue"><strong>15</strong></font>/37) First, co-first(#), co-responding author(*) </td></tr></table> </div> 
+<div align=center> <table><tr><td bgcolor=lightgrey>(<font color="Blue"><strong>15</strong></font>/39) First, co-first(#), co-responding author(*) </td></tr></table> </div> 
 
 **2025**
 - (15) He, Zhe#; Li, Kailang#; <font color="red"><strong>Chen, Tianxiang#</strong></font>; Feng, Yunchao; Villalobos-Portillo, Eduardo; Marini, Carlo; Lo, Tsz Woon Benedict\*; Yang, Fuyuan\*; Zhang, Liang\*; Liu, Lichen\*. High-Purity Hydrogen Production from Dehydrogenation of Methylcyclohexane Catalyzed by Zeolite-Encapsulated Subnanometer Platinum-Iron Clusters. <font color="blue"><strong>Nat. Commun.</strong></font> 2025, 16 (1), 92.
@@ -78,8 +78,11 @@ I have published more than 30 papers with total <a href='https://scholar.google.
 
 ---
 
-<div align=center> <table><tr><td bgcolor=lightgrey>(<font color="Blue"><strong>22</strong></font>/37) Collaborations </td></tr></table> </div> 
+<div align=center> <table><tr><td bgcolor=lightgrey>(<font color="Blue"><strong>24</strong></font>/39) Collaborations </td></tr></table> </div> 
 **2025**
+
+- (24) Lin, Yuqun; Hou, Zhuoqun; Yu, Tong; Lin, Meiyi; Fu, Guozhang; <font color="red"><strong>Chen, Tianxiang</strong></font>; Li, Lanyu; Zhu, Zhongzhi; Chen, Xiuwen. Skeleton Editing of Benzothiazoles to Spiro[Benzothiazole-n-Alkanes] by Carbon-to-Carbon Single-Atom Swapping. <font color="blue"><strong>J. Org. Chem.</strong></font> 2025.
+- (23) Liu, Qiong; Cheng, Hui; Wun, Ching Kit Tommy; <font color="red"><strong>Chen, Tianxiang</strong></font>; Lo, Tsz Woon Benedict; Wang, Fuxian. Oxygen-Tolerant Photocatalytic Conversion of Simulated Flue Gas to Ethylene. <font color="blue"><strong>Chem</strong></font> 2025, 102391.
 - (22) Dou, Xiaomeng; Yan, Tao; Li, Wenying; Zhu, Chaofeng; <font color="red"><strong>Chen, Tianxiang</strong></font>; Lo, Benedict Tsz Woon; Marini, Carlo; Xiao, Hai; Liu, Lichen. Structure–Reactivity Relationship of Zeolite-Confined Rh Catalysts for Hydroformylation of Linear α-Olefins. <font color="blue"><strong>J. Am. Chem. Soc.</strong></font> 2025.
 
 ---
