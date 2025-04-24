@@ -36,7 +36,7 @@ I have published more than 40 papers with total <a href='https://scholar.google.
 <div align=center> <table><tr><td bgcolor=lightgrey>(<font color="Blue"><strong>16</strong></font>/40) First, co-first(#), co-responding author(*) </td></tr></table> </div> 
 
 **2025**
-- (16)Liu, Hao; Zhang, Ying; Liu, Liyang; <font color="red"><strong>Chen, Tianxiang#</strong></font>; Zhang, Xingcong; Hu, Peng; Xiong, Chao; Zhou, Jie; Zhang, Hao; Dong, Lihui; Lo, Tsz Woon Benedict; Nan, Bing; He, Xiaohui; Ji, Hongbing. Platinum Clusters Stabilized by Zincosilicate Zeolite for Efficient Propane Dehydrogenation.  <font color="blue"><strong>Chinese J. Catal.</strong></font> 2025, 71, 208–219.
+- (16)Liu, Hao; Zhang, Ying; Liu, Liyang; <font color="red"><strong>Chen, Tianxiang*</strong></font>; Zhang, Xingcong; Hu, Peng; Xiong, Chao; Zhou, Jie; Zhang, Hao; Dong, Lihui; Lo, Tsz Woon Benedict; Nan, Bing\*; He, Xiaohui\*; Ji, Hongbing\*. Platinum Clusters Stabilized by Zincosilicate Zeolite for Efficient Propane Dehydrogenation.  <font color="blue"><strong>Chinese J. Catal.</strong></font> 2025, 71, 208–219.
 - (15) He, Zhe#; Li, Kailang#; <font color="red"><strong>Chen, Tianxiang#</strong></font>; Feng, Yunchao; Villalobos-Portillo, Eduardo; Marini, Carlo; Lo, Tsz Woon Benedict\*; Yang, Fuyuan\*; Zhang, Liang\*; Liu, Lichen\*. High-Purity Hydrogen Production from Dehydrogenation of Methylcyclohexane Catalyzed by Zeolite-Encapsulated Subnanometer Platinum-Iron Clusters. <font color="blue"><strong>Nat. Commun.</strong></font> 2025, 16 (1), 92.
 
 ---
