@@ -19,7 +19,7 @@ redirect_from:
 
 My research focuses on the rational design and characterisation of atomically precise metal clusters in zeolites. Such as Molecular assembly of (1) multinuclear Cux in ZSM-5 (x = 1, 2, 3), (2) dual-atom Cu-M catalyst in hierarchical USY zeolites and (3) genome engineering of trinuclear metal clusters in ZSM-5 zeolites (MA-MB-MC/ZSM-5, M = 3d metal ions). I am also interested in the structure-activity correlations of supported metal clusters in reactions by exploiting a combination of in-situ/operando diffraction and spectroscopic techniques. For instance: (1) synchrotron X-ray/neutron diffraction combined with Rietveld refinement, x-ray absorption spectroscopy (XAS), and (2) X-ray/neutron total scattering (Pair-distribution function analysis, PDF).
 
-I have published more than 40 papers with total <a href='https://scholar.google.com/citations?user=_Gdrw7UAAAAJ'>google scholar citations <strong><span id='total_cit'>1400+</span></strong></a> (<a href='https://scholar.google.com/citations?user=_Gdrw7UAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I have published more than 42 papers with total <a href='https://scholar.google.com/citations?user=_Gdrw7UAAAAJ'>google scholar citations <strong><span id='total_cit'>1400+</span></strong></a> (<a href='https://scholar.google.com/citations?user=_Gdrw7UAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
