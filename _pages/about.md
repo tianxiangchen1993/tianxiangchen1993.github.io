@@ -29,16 +29,16 @@ I have published more than 40 papers with total <a href='https://scholar.google.
 **Selected Publications**
 - (1) <font color="red"><strong>Chen, Tianxiang#</strong></font>; Yunong, Ho, Ping-Luen; Leung, Kwan Chee; Liu, Jinjie; Wun, Ching Kit Tommy; Li, Zehao; Tang, Chiu Chung; Kawaguchi, Shogo; Wui, Tai-Sing; Soo, Yun-Liang; Yin, Jun; Tsang, Shik Chi Edman; Lo, Tsz Woon Benedict. Unraveling the nuclearity effect of atomically choreographed tri-atom Cu₃ clusters supported on zeolites. <font color="blue"><strong>J. Am. Chem. Soc.</strong></font> 2025, Accepted.
 - (2) <font color="red"><strong>Chen, Tianxiang#</strong></font>; Yu, Wenhua#; Wun, Ching Kit Tommy; Wu, Tai Sing; Sun, Mingzi; Day, Sarah J.; Li, Zehao; Yuan, Bo; Wang, Yong; Li, Mingjie; Wang, Zi; Peng, Yung Kang; Yu, Wing Yiu; Wong, Kwok Yin; Huang, Bolong\*; Liang, Taoyuan\*; Lo, Tsz Woon Benedict*. Cu-Co Dual-Atom Catalysts Supported on Hierarchical USY Zeolites for an Efficient Cross-Dehydrogenative C(Sp2)-N Coupling Reaction. <font color="blue"><strong>J. Am. Chem. Soc.</strong></font> 2023, 145 (15), 8273–8734.
-- () <font color="red"><strong>Chen, Tianxiang</strong></font>; Huang, Bolong; Day, Sarah; Tang, Chiu Chung; Tsang, Shik Chi Edman; Wong, Kwok-yin; Lo, Tsz Woon Benedict\*. Differential Adsorption of L- and d-Lysine on Achiral MFI Zeolites as Determined by Synchrotron X-Ray Powder Diffraction and Thermogravimetric Analysis. <font color="blue"><strong>Angew. Chem. Int. Ed.</strong></font> 2020, 59 (3), 1093–1097. 
+- (3) <font color="red"><strong>Chen, Tianxiang</strong></font>; Huang, Bolong; Day, Sarah; Tang, Chiu Chung; Tsang, Shik Chi Edman; Wong, Kwok-yin; Lo, Tsz Woon Benedict\*. Differential Adsorption of L- and d-Lysine on Achiral MFI Zeolites as Determined by Synchrotron X-Ray Powder Diffraction and Thermogravimetric Analysis. <font color="blue"><strong>Angew. Chem. Int. Ed.</strong></font> 2020, 59 (3), 1093–1097. 
 - (4)
 - (5)
 
-<div align=center> <table><tr><td bgcolor=lightgrey>(<font color="Blue"><strong>16</strong></font>/40) First, co-first(#), co-responding author(*) </td></tr></table> </div> 
+<div align=center> <table><tr><td bgcolor=lightgrey>(<font color="Blue"><strong>18</strong></font>/42) First, co-first(#), co-responding author(*) </td></tr></table> </div> 
 
 **2025**
 - (18) <font color="red"><strong>Chen, Tianxiang#</strong></font>; Yunong, Ho, Ping-Luen; Leung, Kwan Chee; Liu, Jinjie; Wun, Ching Kit Tommy; Li, Zehao; Tang, Chiu Chung; Kawaguchi, Shogo; Wui, Tai-Sing; Soo, Yun-Liang; Yin, Jun; Tsang, Shik Chi Edman; Lo, Tsz Woon Benedict. Unraveling the nuclearity effect of atomically choreographed tri-atom Cu₃ clusters supported on zeolites. <font color="blue"><strong>J. Am. Chem. Soc.</strong></font> 2025, Accepted.
 - (17) Li, Yunong; Wun, Ching Kit Tommy; <font color="red"><strong>Chen, Tianxiang*</strong></font>; Lo, Tsz Woon Benedict. Investigating Size-Dependent Selectivity in Benzaldehyde Reductive Amination via Ni Nanoparticles. <font color="blue"><strong>Mater. Today Catal.</strong></font> 2025, 9, 100100.
-- (16)Liu, Hao; Zhang, Ying; Liu, Liyang; <font color="red"><strong>Chen, Tianxiang*</strong></font>; Zhang, Xingcong; Hu, Peng; Xiong, Chao; Zhou, Jie; Zhang, Hao; Dong, Lihui; Lo, Tsz Woon Benedict; Nan, Bing\*; He, Xiaohui\*; Ji, Hongbing\*. Platinum Clusters Stabilized by Zincosilicate Zeolite for Efficient Propane Dehydrogenation.  <font color="blue"><strong>Chinese J. Catal.</strong></font> 2025, 71, 208–219.
+- (16) Liu, Hao; Zhang, Ying; Liu, Liyang; <font color="red"><strong>Chen, Tianxiang*</strong></font>; Zhang, Xingcong; Hu, Peng; Xiong, Chao; Zhou, Jie; Zhang, Hao; Dong, Lihui; Lo, Tsz Woon Benedict; Nan, Bing\*; He, Xiaohui\*; Ji, Hongbing\*. Platinum Clusters Stabilized by Zincosilicate Zeolite for Efficient Propane Dehydrogenation.  <font color="blue"><strong>Chinese J. Catal.</strong></font> 2025, 71, 208–219.
 - (15) He, Zhe#; Li, Kailang#; <font color="red"><strong>Chen, Tianxiang#</strong></font>; Feng, Yunchao; Villalobos-Portillo, Eduardo; Marini, Carlo; Lo, Tsz Woon Benedict\*; Yang, Fuyuan\*; Zhang, Liang\*; Liu, Lichen\*. High-Purity Hydrogen Production from Dehydrogenation of Methylcyclohexane Catalyzed by Zeolite-Encapsulated Subnanometer Platinum-Iron Clusters. <font color="blue"><strong>Nat. Commun.</strong></font> 2025, 16 (1), 92.
 - (14) Fu, Guozhang; Li, Yunong; Hou, Zhuoqun; Wang, Shasha; Jiang, Shaohua; <font color="red"><strong>Chen, Tianxiang*</strong></font>; Lo, Tsz Woon Benedict\*; Chen, Xiuwen\*. Diatomic Cobalt–Catalyzed Cyclization of o-Aminobenzyl Alcohol with Amidine for the Synthesis of Quinazolines. <font color="blue"><strong>J. Catal.</strong></font> 2025, 442, 115889.
 ---
@@ -80,7 +80,7 @@ I have published more than 40 papers with total <a href='https://scholar.google.
 
 ---
 
-<div align=center> <table><tr><td bgcolor=lightgrey>(<font color="Blue"><strong>24</strong></font>/40) Collaborations </td></tr></table> </div> 
+<div align=center> <table><tr><td bgcolor=lightgrey>(<font color="Blue"><strong>24</strong></font>/42) Collaborations </td></tr></table> </div> 
 **2025**
 
 - (24) Lin, Yuqun; Hou, Zhuoqun; Yu, Tong; Lin, Meiyi; Fu, Guozhang; <font color="red"><strong>Chen, Tianxiang</strong></font>; Li, Lanyu; Zhu, Zhongzhi; Chen, Xiuwen. Skeleton Editing of Benzothiazoles to Spiro[Benzothiazole-n-Alkanes] by Carbon-to-Carbon Single-Atom Swapping. <font color="blue"><strong>J. Org. Chem.</strong></font> 2025.
