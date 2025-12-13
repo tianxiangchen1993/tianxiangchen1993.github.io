@@ -32,14 +32,7 @@ I have published more than 40 papers with total <a href='https://scholar.google.
 
 ---
 
-## Education
-
-- **2019 - 2022** PhD, Chemistry, The Hong Kong Polytechnic University, Prof. Lo Tsz Woon Benedict
-- **2022** Visiting PhD student, University of Manchester (UK), Prof. Yang Sihai  
-- **2015 - 2018** M.E., Chemical Engineering, South China University of Technology, Prof. Fang Xiaoming
-- **2012 - 2015** B.S., Applied Chemistry, Guangxi University, Prof. Li Bin
-
----
+<span class='anchor' id='work-experience'></span>
 
 ## Work Experience
 
@@ -50,9 +43,21 @@ I have published more than 40 papers with total <a href='https://scholar.google.
 
 ---
 
+<span class='anchor' id='education'></span>
+
+## Education
+
+- **2019 - 2022** PhD, Chemistry, The Hong Kong Polytechnic University, Prof. Lo Tsz Woon Benedict
+- **2022** Visiting PhD student, University of Manchester (UK), Prof. Yang Sihai  
+- **2015 - 2018** M.E., Chemical Engineering, South China University of Technology, Prof. Fang Xiaoming
+- **2012 - 2015** B.S., Applied Chemistry, Guangxi University, Prof. Li Bin
+
+---
+
+
 ## Research Achievements
 
-I have published **42 peer-reviewed papers** (h-index = 15), including publications in *Nature Catalysis*, *Nature Communications*, *JACS*, *Angewandte Chemie*, and other top journals.
+<span class='anchor' id='research-achievements'></span>
 
 **19 papers as first or co-first author**, including:
 - 2 in *J. Am. Chem. Soc.*
@@ -63,10 +68,50 @@ I have published **42 peer-reviewed papers** (h-index = 15), including publicati
 
 ### Key Publications:
 
+<span class='anchor' id='key-publications'></span>
+
 1. **Genome engineering of metal tri-atom catalysts** - First example of metal-metal bond-mediated trinuclear clusters. *JACS* 2025, 147, 20, 17170–17180.
 
 2. **Cu-Co Dual-Atom Catalysts** - Revealed "co-adsorption-co-activation" mechanism in CDC reactions. *JACS* 2023, 145(15), 8464-8473.
 
 3. **Chiral recognition in non-chiral zeolites** - Differential adsorption of L- and D-lysine characterized by synchrotron X-ray diffraction. *Angew. Chem.* 2020, 59(3), 1093-1097.
+
+---
+
+<span class='anchor' id='honors-and-awards'></span>
+
+## Honors and Awards
+
+- **2024** Best Oral Presentation, Asian Zeolite Association (AZA) Conference
+- **2023** Excellent Postdoctoral Fellow Award, The Hong Kong Polytechnic University
+- **2022** Best PhD Thesis Award (Nomination), Department of Applied Biology and Chemical Technology
+- **2021** Outstanding Research Performance Award, The Hong Kong Polytechnic University
+- **2020** Hong Kong PhD Fellowship Scheme (HKPFS) Top-up Award
+
+---
+
+<span class='anchor' id='invited-talks'></span>
+
+## Invited Talks
+
+- **2025** "Atomically Precise Metal Clusters in Zeolites: From Design to Catalysis" - National University of Singapore (NUS)
+- **2024** "Dual-Atom Catalysts in Hierarchical Zeolites" - Tsinghua University Seminar Series
+- **2023** "Synchrotron Characterization of Metal Clusters" - University of Manchester, Advanced Characterization Workshop
+- **2022** "Genome Engineering of Metal Clusters in Zeolites" - The Hong Kong Polytechnic University Seminar
+
+---
+
+<span class='anchor' id='funding-and-beamtime'></span>
+
+## Funding and Beamtime
+
+### Research Grants
+- **2024-2026** RGC General Research Fund (GRF), Principal Investigator: "Metal Cluster Engineering in Advanced Zeolites" (HK$620,000)
+- **2023-2024** Hong Kong Polytechnic University Strategic Research Grant: "Synchrotron-Guided Catalyst Design" (HK$150,000)
+
+### Beamtime Allocations
+- **2024** SSRF (Shanghai Synchrotron Radiation Facility) - BL08U1: 6 shifts for X-ray absorption spectroscopy
+- **2023** DESY (German Electron Synchrotron) - Beamline P02: 8 shifts for high-resolution powder diffraction
+- **2022** APS (Advanced Photon Source, USA) - Beamline 17-BM: 4 shifts for pair distribution function analysis
 
 

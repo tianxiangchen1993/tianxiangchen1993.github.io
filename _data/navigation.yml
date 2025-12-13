@@ -4,22 +4,22 @@ main:
     url: "/#about-me"
 
   - title: "Work experiences"
-    url: "/#-Work experiences"
+    url: "/#work-experience"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#education"
 
-  - title: "News"
-    url: "/#-news"
+  - title: "Research Achievements"
+    url: "/#research-achievements"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#key-publications"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#honors-and-awards"
 
   - title: "Invited Talks"
-    url: "/#-invited-talks"
+    url: "/#invited-talks"
 
   - title: "Funding and Beamtime"
-    url: "/#-Funding and Beamtime"
+    url: "/#funding-and-beamtime"
