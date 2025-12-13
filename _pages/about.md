@@ -76,9 +76,6 @@ This enables tracking of electronic-structural dynamics and host-guest synergies
 
 I have published <a href='https://scholar.google.com/citations?user=_Gdrw7UAAAAJ'><strong>peer-reviewed papers</strong></a> (h-index = 16) with total <a href='https://scholar.google.com/citations?user=_Gdrw7UAAAAJ'>google scholar citations <strong><span id='total_cit'>1100+</span></strong></a> 
 
-📊 <img src="https://img.shields.io/badge/publications-42+-blue?style=flat&logo=Google%20Scholar&labelColor=f6f6f6"> 
-📈 <img src="https://img.shields.io/badge/h--index-15-green?style=flat&logo=Google%20Scholar&labelColor=f6f6f6"> 
-📰 <img src="https://img.shields.io/badge/citations-1400+-9cf?style=flat&logo=Google%20Scholar&labelColor=f6f6f6">
 
 Published peer-reviewed papers (19 as first or co-first author, 24 as collaborations) in *Nature Communications*, *JACS*, *Angewandte Chemie*, and other top-tier journals.
 ---
