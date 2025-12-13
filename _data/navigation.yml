@@ -3,23 +3,26 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Work experiences"
+  - title: "Work Experience"
     url: "/#work-experience"
 
-  - title: "Educations"
+  - title: "Education"
     url: "/#education"
 
   - title: "Research Achievements"
     url: "/#research-achievements"
 
-  - title: "Publications"
-    url: "/#key-publications"
+  - title: "Invited Talks"
+    url: "/#invited-talks"
+
+  - title: "Academic Meetings"
+    url: "/#academic-meetings"
 
   - title: "Honors and Awards"
     url: "/#honors-and-awards"
 
-  - title: "Invited Talks"
-    url: "/#invited-talks"
-
   - title: "Funding and Beamtime"
     url: "/#funding-and-beamtime"
+
+  - title: "Expertise"
+    url: "/#expertise"
