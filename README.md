@@ -71,17 +71,6 @@ This is the personal academic homepage of **Tianxiang Chen (陈天翔)**, a Rese
 
 ---
 
-## 💰 Research Funding
-
-### Active Grants
-- **2024-2026** RGC General Research Fund (GRF): "Metal Cluster Engineering in Advanced Zeolites" (HK$620,000)
-- **2023-2024** PolyU Strategic Research Grant: "Synchrotron-Guided Catalyst Design" (HK$150,000)
-
-### Synchrotron Beamtime
-- SSRF (China), DESY (Germany), APS (USA)
-
----
-
 ## 📖 Website Features
 
 This website is built with **Jekyll + GitHub Pages** and includes:
