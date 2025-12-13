@@ -44,7 +44,7 @@ This enables tracking of electronic-structural dynamics and host-guest synergies
 
 ### Publication Record
 
-I have published <a href='https://scholar.google.com/citations?user=_Gdrw7UAAAAJ'><strong>peer-reviewed papers</strong></a> (h-index = 15, **18 as first/co-first author**) with total <a href='https://scholar.google.com/citations?user=_Gdrw7UAAAAJ'>google scholar citations <strong><span id='total_cit'>1100+</span></strong></a> 
+I have published <a href='https://scholar.google.com/citations?user=_Gdrw7UAAAAJ'><strong>peer-reviewed papers</strong></a> (h-index = 15) with total <a href='https://scholar.google.com/citations?user=_Gdrw7UAAAAJ'>google scholar citations <strong><span id='total_cit'>1100+</span></strong></a> 
 
 📊 <img src="https://img.shields.io/endpoint?url={{ pubUrl | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=blue&style=flat"> 
 📈 <img src="https://img.shields.io/endpoint?url={{ hindexUrl | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=green&style=flat"> 
@@ -131,7 +131,7 @@ Published peer-reviewed papers (18 as first or co-first author, 24 as collaborat
 <span class='anchor' id='academic-meetings'></span>
 
 ## 📊 Academic Meetings & Conferences
-
+- **2025** invited lecture at 1st global Overseas Young Chinese Top Talent Forum
 - **2022** 5th Annual UK Porous Materials Conference
 - **2022** UK Catalysis Hub Summer Conference
 - **2021** ACS Publications Symposium — Hong Kong: The Power of Chemical Transformations
