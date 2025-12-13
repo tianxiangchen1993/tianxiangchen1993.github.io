@@ -56,8 +56,6 @@ I have published **42 peer-reviewed papers** (h-index = 15) with total <a href='
 
 I have published **42 peer-reviewed papers** (18 as first or co-first author, 24 as collaborations), including publications in *Nature Catalysis*, *Nature Communications*, *JACS*, *Angewandte Chemie*, and other top journals.
 
-### Recent Major Achievements:
-
 **Postdoctoral Research (Oct. 2022 - present)**:
 
 1. **Cox@MFI for Ethane Dehydrogenation** - Developed ligand-mediated strategy for controlling Co cluster dispersion, achieving 350.2 molC2H4/(molCo·h) with 95% selectivity after 9 cycles (Collaborator: Prof. Liu Lichen, Tsinghua University)
