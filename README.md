@@ -18,7 +18,6 @@ This is the personal academic homepage of **Tianxiang Chen (陈天翔)**, a Rese
 **Contact**:
 - 📧 Email: txchen@polyu.edu.hk, tianxiangchen1993@gmail.com
 - 🌐 Website: https://tianxiangchen1993.github.io/
-- 📱 Tel: +852-5261 3893
 
 ---
 
