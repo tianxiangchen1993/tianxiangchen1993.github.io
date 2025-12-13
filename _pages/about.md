@@ -14,6 +14,8 @@ redirect_from:
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+{% assign pubUrl = gsDataBaseUrl | append: "google-scholar-stats/gs_data_publications.json" %}
+{% assign hindexUrl = gsDataBaseUrl | append: "google-scholar-stats/gs_data_hindex.json" %}
 
 <span class='anchor' id='news'></span>
 
@@ -42,9 +44,11 @@ This enables tracking of electronic-structural dynamics and host-guest synergies
 
 ### Publication Record
 
-I have published <a href='https://scholar.google.com/citations?user=_Gdrw7UAAAAJ'><strong>42 peer-reviewed papers</strong></a> (h-index = 15, **18 as first/co-first author**) with total <a href='https://scholar.google.com/citations?user=_Gdrw7UAAAAJ'>google scholar citations <strong><span id='total_cit'>1100+</span></strong></a> 
+I have published <a href='https://scholar.google.com/citations?user=_Gdrw7UAAAAJ'><strong>peer-reviewed papers</strong></a> (h-index = 15, **18 as first/co-first author**) with total <a href='https://scholar.google.com/citations?user=_Gdrw7UAAAAJ'>google scholar citations <strong><span id='total_cit'>1100+</span></strong></a> 
 
-<a href='https://scholar.google.com/citations?user=_Gdrw7UAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+📊 <img src="https://img.shields.io/endpoint?url={{ pubUrl | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=blue&style=flat"> 
+📈 <img src="https://img.shields.io/endpoint?url={{ hindexUrl | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=green&style=flat"> 
+📰 <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat">
 
 ---
 
@@ -78,7 +82,9 @@ I have published <a href='https://scholar.google.com/citations?user=_Gdrw7UAAAAJ
 
 ## 🔬 Research Achievements
 
-Published **42 peer-reviewed papers** (18 as first or co-first author, 24 as collaborations) in *Nature Communications*, *JACS*, *Angewandte Chemie*, and other top-tier journals.
+Published peer-reviewed papers (18 as first or co-first author, 24 as collaborations) in *Nature Communications*, *JACS*, *Angewandte Chemie*, and other top-tier journals.
+
+**Statistics**: <img src="https://img.shields.io/endpoint?url={{ pubUrl | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=blue&style=flat&label=papers"> | <img src="https://img.shields.io/endpoint?url={{ hindexUrl | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=green&style=flat&label=h-index"> | <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 
 ### 📚 Publication Highlights
 
