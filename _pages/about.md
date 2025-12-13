@@ -15,6 +15,14 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<span class='anchor' id='news'></span>
+
+## 🚀 News
+
+> **Dec. 2025**: Joined the ABCT, PolyU as a Research Assistant Professor! 🎉
+
+---
+
 <span class='anchor' id='about-me'></span>
 
 ## About Me
@@ -133,9 +141,7 @@ Published **42 peer-reviewed papers** (18 as first or co-first author, 24 as col
 
 
 ### Synchrotron Beamtime Allocations
-- **2024** SSRF (China) — BL08U1: 6 shifts, X-ray absorption spectroscopy
-- **2023** DESY (Germany) — Beamline P02: 8 shifts, high-resolution powder diffraction
-- **2022** APS (USA) — Beamline 17-BM: 4 shifts, pair distribution function analysis
+
 
 ---
 
