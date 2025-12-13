@@ -119,13 +119,15 @@ Published in *Nature Communications*, *JACS*, *Angewandte Chemie*, and other top
 ## 🎤 Invited Talks
 
 
+- **2025** invited lecture at 1st global Overseas Young Chinese Top Talent Forum
 
 ---
 
 <span class='anchor' id='academic-meetings'></span>
 
+
 ## 📊 Academic Meetings & Conferences
-- **2025** invited lecture at 1st global Overseas Young Chinese Top Talent Forum
+
 - **2022** 5th Annual UK Porous Materials Conference
 - **2022** UK Catalysis Hub Summer Conference
 - **2021** ACS Publications Symposium — Hong Kong: The Power of Chemical Transformations
