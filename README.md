@@ -1,72 +1,151 @@
 
-<h1 align="center">
-AcadHomepage
-</h1>
+# Tianxiang Chen's Personal Academic Homepage
 
 <div align="center">
 
-[![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/forks/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/issues/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE)  | [中文文档](./docs/README-zh.md) 
+**陈天翔的个人学术主页** | [Official Site](https://tianxiangchen1993.github.io/)
+
 </div>
 
-<p align="center">A Modern and Responsive Academic Personal Homepage</p>
+---
 
-<p align="center">
-    <br>
-    <img src="docs/screenshot.png" width="100%"/>
-    <br>
-</p>
+## 👤 About
 
-Some examples:
-- [Demo Page](https://rayeren.github.io/acad-homepage.github.io/)
-- [Personal Homepage of the author](https://rayeren.github.io/)
+This is the personal academic homepage of **Tianxiang Chen (陈天翔)**, a Research Assistant Professor at the Department of Applied Biology and Chemical Technology (ABCT), The Hong Kong Polytechnic University.
 
-## Key Features
-- **Automatically update google scholar citations**: using the google scholar crawler and github action, this REPO can update the author citations and publication citations automatically.
-- **Support Google analytics**: you can trace the traffics of your homepage by easy configuration.
-- **Responsive**: this homepage automatically adjust for different screen sizes and viewports.
-- **Beautiful and Simple Design**: this homepage is beautiful and simple, which is very suitable for academic personal homepage.
-- **SEO**: search Engine Optimization (SEO) helps search engines find the information you publish on your homepage easily, then rank it against similar websites.
+**Research Focus**: Atomically precise metal clusters in zeolites for catalysis, synchrotron characterization techniques, and structure-activity relationships.
 
-## Quick Start
+**Contact**:
+- 📧 Email: txchen@polyu.edu.hk, tianxiangchen1993@gmail.com
+- 🌐 Website: https://tianxiangchen1993.github.io/
+- 📱 Tel: +852-5261 3893
 
-1. Fork this REPO and rename to `USERNAME.github.io`, where `USERNAME` is your github USERNAME.
-1. Configure the google scholar citation crawler:
-    1. Find your google scholar ID in the url of your google scholar page (e.g., https://scholar.google.com/citations?user=SCHOLAR_ID), where `SCHOLAR_ID` is your google scholar ID.
-    1. Set GOOGLE_SCHOLAR_ID variable to your google scholar ID in `Settings -> Secrets -> Actions -> New repository secret` of the REPO website with `name=GOOGLE_SCHOLAR_ID` and `value=SCHOLAR_ID`.
-    1. Click the `Action` of the REPO website and enable the workflows by clicking *"I understand my workflows, go ahead and enable them"*. This github action will generate google scholar citation stats data `gs_data.json` in `google-scholar-stats` branch of your REPO. When you update your main branch, this action will be triggered. This action will also be trigger 08:00 UTC everyday.
-1. Generate favicon using [favicon-generator](https://redketchup.io/favicon-generator) and download all generated files to `REPO/images`.
-1. Modify the configuration of your homepage `_config.yml`:
-    1. `title`: the title of your homepage
-    1. `description`: the description of your homepage
-    1. `repository`: USER_NAME/REPO_NAME  
-    1. `google_analytics_id` (optional): google analytics ID
-    1. SEO Related keys (optional): get these keys from search engine consoles (e.g. Google, Bing and Baidu) and paste here.
-    1. `author`: the author information of this homepage, including some other websites, emails, city and univeristy.
-    1. More configuration details are described in the comments.
-1. Add your homepage content in `_pages/about.md`.
-    1. You can use html+markdown syntax just same as jekyll.
-    1. You can use a `<span>` tag with class `show_paper_citations` and attribute `data` to display the citations of your paper. Set the data to the google scholar paper ID. For
-        ```html
-        <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
-        ``` 
-        > Q: How to get the google scholar paper ID?   
-        > A: Enter your google scholar homepage and click the paper name. Then you can see the paper ID from `citation_for_view=XXXX`, where `XXXX` is the required paper ID.
-1. Your page will be published at `https://USERNAME.github.io`.
+---
 
-## Debug Locally
+## 🎓 Education & Experience
 
-1. Clone your REPO to local using `git clone`.
-1. Install Jekyll building environment, including `Ruby`, `RubyGems`, `GCC` and `Make` following [the installation guide](https://jekyllrb.com/docs/installation/#requirements).
-1. Run `bash run_server.sh` to start Jekyll livereload server.
-1. Open http://127.0.0.1:4000 in your browser.
-1. If you change the source code of the website, the livereload server will automatically refresh.
-1. When you finish the modification of your homepage, `commit` your changings and `push` to your remote REPO using `git` command.
+| Position | Period | Institution |
+|----------|--------|-------------|
+| Research Assistant Professor | Dec. 2025 - Present | The Hong Kong Polytechnic University |
+| Visiting Scholar | May 2024 - Oct. 2025 | Tsinghua University (China) |
+| Post-doc Research Fellow | Oct. 2022 - Nov. 2025 | PolyU |
+| PhD, Chemistry | Sep. 2019 - Oct. 2022 | PolyU |
 
-# Acknowledges
+---
 
-- AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
-- AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
-- AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
+## 📚 Academic Achievements
+
+- **42 peer-reviewed papers** published (h-index = 15)
+- **18 papers as first/co-first author** in top-tier journals
+- **1100+ Google Scholar citations**
+- Featured in *J. Am. Chem. Soc.*, *Nature Communications*, *Angew. Chem. Int. Ed.*, *Cell Reports Physical Science*
+
+---
+
+## 🔬 Key Research Interests
+
+1. **Atomically Precise Metal Clusters** — Design and synthesis of multinuclear metal clusters confined in zeolites
+2. **Synchrotron Characterization** — X-ray/Neutron diffraction, XAS, PDF analysis
+3. **Catalysis** — C-X bond coupling, dehydrogenation, NOₓ reduction
+4. **Structure-Activity Relationships** — Molecular-level catalyst design
+
+---
+
+## 🛠️ Technical Expertise
+
+### Synchrotron Techniques
+- X-ray and Neutron Diffraction (TOPAS refinement)
+- X-ray Absorption Spectroscopy (XANES/EXAFS)
+- Total Scattering Analysis (PDF)
+
+### Characterization Tools
+- **Athena & Artemis** — XAS data processing
+- **PDFgui** — PDF analysis
+- **TOPAS** — Crystal structure refinement
+
+---
+
+## 🏆 Honors & Awards
+
+- **2022/23** FS Outstanding PhD Thesis Award — PolyU
+- **2023** Excellent Postdoctoral Fellow Award — PolyU
+
+---
+
+## 💰 Research Funding
+
+### Active Grants
+- **2024-2026** RGC General Research Fund (GRF): "Metal Cluster Engineering in Advanced Zeolites" (HK$620,000)
+- **2023-2024** PolyU Strategic Research Grant: "Synchrotron-Guided Catalyst Design" (HK$150,000)
+
+### Synchrotron Beamtime
+- SSRF (China), DESY (Germany), APS (USA)
+
+---
+
+## 📖 Website Features
+
+This website is built with **Jekyll + GitHub Pages** and includes:
+
+✨ **Automatic Google Scholar Integration**
+- Daily automatic sync of publication count, h-index, and citations
+- Real-time statistics displayed on homepage
+
+📱 **Responsive Design**
+- Optimized for desktop, tablet, and mobile devices
+- Clean and professional layout
+
+🔍 **SEO Optimized**
+- Search engine friendly metadata
+- Fast loading with CDN acceleration
+
+🎯 **Easy Navigation**
+- Organized sections: News, About, Work Experience, Education, Research, Talks, etc.
+- Quick access to Google Scholar, ORCID, ResearchGate
+
+---
+
+## 📋 Site Structure
+
+```
+├── _pages/about.md              # Main content
+├── _includes/                   # Reusable HTML components
+├── _sass/                       # Styling
+├── _data/navigation.yml         # Navigation menu
+├── assets/                      # CSS, JS, images
+├── google_scholar_crawler/      # Auto-sync script
+└── .github/workflows/           # GitHub Actions automation
+```
+
+---
+
+## 🚀 Technologies Used
+
+| Component | Technology |
+|-----------|-----------|
+| Site Generator | Jekyll 4.x |
+| Hosting | GitHub Pages |
+| Styling | SCSS + Bootstrap |
+| Icons | Font Awesome + Academicons |
+| Data Sync | Python + GitHub Actions |
+| Analytics | Google Analytics (optional) |
+| CDN | jsDelivr |
+
+---
+
+## 📞 Contact & Links
+
+- **Google Scholar**: https://scholar.google.com/citations?user=_Gdrw7UAAAAJ
+- **ORCID**: https://orcid.org/0000-0002-1578-0957
+- **ResearchGate**: https://www.researchgate.net/profile/Tianxiang-Chen-9
+- **PolyU Profile**: [Department of ABCT](https://www.polyu.edu.hk/)
+
+---
+
+## 📄 License
+
+This website is licensed under the MIT License. See [LICENSE](./LICENSE) for details.
+
+---
+
+**Last Updated**: December 2025
