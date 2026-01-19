@@ -22,7 +22,7 @@ redirect_from:
 ## 🚀 News
 
 
-> **Jan. 2026**: Dr. Lingfeng Jia Joined our group as an Postdoc Research Fellow. Great Welcome to Dr. Jia! 🎉
+> **Jan. 2026**: Dr. Lingfeng Jia Joined our group as an Postdoctoral Research Fellow. Great Welcome to Dr. Jia! 🎉
 
 > **Dec. 2025**: Joined the ABCT, PolyU as a Research Assistant Professor! 🎉
 
