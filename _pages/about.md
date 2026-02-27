@@ -21,8 +21,9 @@ redirect_from:
 
 ## 🚀 News
 
+> **Feb. 2026**: Dr. Zheng Zhou joined our group as a Postdoctoral Research Fellow. Great welcome to Dr. Zhou! 🎉
 
-> **Jan. 2026**: Dr. Lingfeng Jia Joined our group as an Postdoctoral Research Fellow. Great Welcome to Dr. Jia! 🎉
+> **Jan. 2026**: Dr. Lingfeng Jia joined our group as a Postdoctoral Research Fellow. Great welcome to Dr. Jia! 🎉
 
 > **Dec. 2025**: Joined the ABCT, PolyU as a Research Assistant Professor! 🎉
 
@@ -77,11 +78,12 @@ This enables tracking of electronic-structural dynamics and host-guest synergies
 
 ## 🔬 Research Achievements
 
-I have published 43 <a href='https://scholar.google.com/citations?user=_Gdrw7UAAAAJ'><strong>peer-reviewed papers</strong></a> (h-index = 16) with total <a href='https://scholar.google.com/citations?user=_Gdrw7UAAAAJ'>google scholar citations <strong><span id='total_cit'>1100+</span></strong></a>
+I have published 44 <a href='https://scholar.google.com/citations?user=_Gdrw7UAAAAJ'><strong>peer-reviewed papers</strong></a> (h-index = 17) with total <a href='https://scholar.google.com/citations?user=_Gdrw7UAAAAJ'>google scholar citations <strong><span id='total_cit'>1100+</span></strong></a>
 
 <a href='https://scholar.google.com/citations?user=_Gdrw7UAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-Published in *Nature Communications*, *JACS*, *Angewandte Chemie*, and other top-tier journals with **19 as first or co-first author** and **24 as collaborations**.
+Published 44 peer-reviewed papers (h-index = 17) in prestigious journals including _**Nat. Catal.**_, _**Nat. Synth.**_, _**Nat. Commun.**_, _**Chem**_, _**JACS**_, and _**Angew. Chem.**_. Among these, 19 were as first (co-first) or corresponding authors, featuring high-impact works in _**JACS (2)**_ and _**Angew. Chem. (2)**_, _**Nat. Commun. (1)**_, _**Chem. Catal. (1)**_, and _**JMCA (3)**_.
+
 
 ### 📚 Publication Highlights
 
