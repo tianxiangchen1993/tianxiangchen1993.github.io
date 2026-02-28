@@ -18,7 +18,9 @@ redirect_from:
 
 ## 🚀 News
 > **Feb. 2026**: Dr. Zheng Zhou joined our group as a Postdoctoral Research Fellow. 🎉
+
 > **Jan. 2026**: Dr. Lingfeng Jia joined our group as a Postdoctoral Research Fellow. 🎉
+
 > **Dec. 2025**: Joined the ABCT, PolyU as a Research Assistant Professor! 🎉
 
 ---
