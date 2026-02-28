@@ -32,6 +32,61 @@ I am a **Research Assistant Professor** in the Department of Applied Biology and
 
 ---
 
+### Research Focus
+
+My research harnesses state-of-the-art synchrotron radiation facilities to drive innovation in the full-cycle development of catalysts—from atomically precise synthesis and dynamic characterization to performance optimization. Centered on programmable multinuclear metal clusters within porous materials, I developed a molecular-level design framework to tailor catalytic architectures for energy and sustainability challenges.
+
+
+To decode structure-activity relationships, I have developed an integrated synchrotron methodology combining:
+
+- **X-ray/Neutron Diffraction** (Rietveld refinement)
+
+- **Total Scattering Analysis** with atomic pair distribution function (PDF) analysis
+
+- **X-ray Absorption Spectroscopy** (XANES/EXAFS)
+
+
+This enables tracking of electronic-structural dynamics and host-guest synergies under operando conditions.
+
+---
+
+
+<span class='anchor' id='work-experience'></span>
+
+## 🎯 Work Experience
+
+| Period | Position | Institution |
+
+|--------|----------|-------------|
+
+| **Since Dec. 2025** | Research Assistant Professor | The Hong Kong Polytechnic University |
+
+| **May 2024 - Oct. 2025** | Visiting Scholar | Tsinghua University (China), Prof. Liu Lichen |
+
+| **Oct. 2022 - Nov. 2025** | Post-doc Research Fellow | PolyU, Prof. Lo Tsz Woon Benedict |
+
+| **May 2018 - Apr. 2019** | Research Assistant | PolyU, Prof. Lo Tsz Woon Benedict |
+
+---
+
+<span class='anchor' id='education'></span>
+
+## 🎓 Education
+
+| Degree | Major | Period | Institution | Advisor |
+
+|--------|-------|--------|-----------|---------|
+
+| **PhD** | Chemistry | Sep. 2019 - Oct. 2022 | The Hong Kong Polytechnic University | Prof. Lo Tsz Woon Benedict |
+
+| **Visiting PhD** | Chemistry | Apr. 2022 - Aug. 2022 | University of Manchester (UK) | Prof. Yang Sihai |
+
+| **M.E.** | Chemical Engineering | Sep. 2015 - May 2018 | South China University of Technology | Prof. Fang Xiaoming |
+
+| **B.S.** | Applied Chemistry | Sep. 2011 - July 2015 | Guangxi University | Prof. Li Bin |
+
+---
+
 <span class='anchor' id='research-achievements'></span>
 
 ## 🔬 Research Achievements
