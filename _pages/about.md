@@ -17,6 +17,7 @@ redirect_from:
 <span class='anchor' id='news'></span>
 
 ## 🚀 News
+
 > **Feb. 2026**: Dr. Zheng Zhou joined our group as a Postdoctoral Research Fellow. 🎉
 
 > **Jan. 2026**: Dr. Lingfeng Jia joined our group as a Postdoctoral Research Fellow. 🎉
@@ -56,15 +57,10 @@ This enables tracking of electronic-structural dynamics and host-guest synergies
 ## 🎯 Work Experience
 
 | Period | Position | Institution |
-
-|:---|:---|:---|
-
+| :--- | :--- | :--- |
 | **Since Dec. 2025** | Research Assistant Professor | The Hong Kong Polytechnic University |
-
 | **May 2024 - Oct. 2025** | Visiting Scholar | Tsinghua University (China), Prof. Liu Lichen |
-
 | **Oct. 2022 - Nov. 2025** | Post-doc Research Fellow | PolyU, Prof. Lo Tsz Woon Benedict |
-
 | **May 2018 - Apr. 2019** | Research Assistant | PolyU, Prof. Lo Tsz Woon Benedict |
 
 ---
@@ -74,15 +70,10 @@ This enables tracking of electronic-structural dynamics and host-guest synergies
 ## 🎓 Education
 
 | Degree | Major | Period | Institution | Advisor |
-
-|:---|:---|:---|:---|:---|
-
+| :--- | :--- | :--- | :--- | :--- |
 | **PhD** | Chemistry | Sep. 2019 - Oct. 2022 | The Hong Kong Polytechnic University | Prof. Lo Tsz Woon Benedict |
-
 | **Visiting PhD** | Chemistry | Apr. 2022 - Aug. 2022 | University of Manchester (UK) | Prof. Yang Sihai |
-
 | **M.E.** | Chemical Engineering | Sep. 2015 - May 2018 | South China University of Technology | Prof. Fang Xiaoming |
-
 | **B.S.** | Applied Chemistry | Sep. 2011 - July 2015 | Guangxi University | Prof. Li Bin |
 
 ---
@@ -93,16 +84,25 @@ This enables tracking of electronic-structural dynamics and host-guest synergies
 
 I have published **44 peer-reviewed papers** (h-index = 17) with **1900+ total citations**. [![Google Scholar Citations](https://img.shields.io/badge/Google%20Scholar-Citations-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat)](https://scholar.google.com/citations?user=_Gdrw7UAAAAJ)
 
-My work features high-impact publications in prestigious journals including ***Nat. Catal.***, ***Nat. Synth.***, ***Nat. Commun.***, ***Chem***, ***JACS***, and ***Angew. Chem.***. Among these, **19 papers** were as first (co-first) or corresponding author.
+My work features high-impact publications in prestigious journals, including ***Nat. Catal.***, ***Nat. Synth.***, ***Nat. Commun.***, ***Chem***, ***JACS***, and ***Angew. Chem.***. Among these, **19 papers** were as first (co-first) or corresponding author.
 
 ### 📚 Publication Highlights
 
-| Journal | Achievement Snapshot | Year |
-| :--- | :--- | :---: |
-| **J. Am. Chem. Soc.** | Unraveling the nuclearity effect of triatom $Cu_3$ clusters | 2025 |
-| **Nature Commun.** | High-purity $H_2$ via zeolite-encapsulated Pt-Fe clusters | 2025 |
-| **Angew. Chem.** | Boosting stability of Pt catalysts via framework In(III) sites | 2024 |
-| **J. Am. Chem. Soc.** | Cu-Co dual-atom catalysts for efficient C-N coupling | 2023 |
+1. **Trinuclear Metal Cluster Engineering**  
+
+   Chen, T.; et al. "Unraveling the Nuclearity Effect of Atomically Choreographed Triatom Cu₃ Clusters Supported on Zeolites." *J. Am. Chem. Soc.* **2025**, 147(20), 17170–17180.
+
+2. **Cu-Co Dual-Atom Catalysts**  
+
+   Chen, T.; et al. "Cu-Co Dual-Atom Catalysts Supported on Hierarchical USY Zeolites for an Efficient Cross-Dehydrogenative C(sp²)–N Coupling Reaction." *J. Am. Chem. Soc.* **2023**, 145(15), 8464–8473.
+
+3. **Chiral Recognition in Zeolites**  
+
+   Chen, T.; et al. "Differential Adsorption of L- and D-Lysine on Achiral MFI Zeolites." *Angew. Chem. Int. Ed.* **2020**, 59(3), 1093–1097.
+
+4. **Atomically Precise Bimetallic Catalysts**  
+
+   Chen, T.; et al. "Atomically Precise Bimetallic Metal Ensembles with Tailorable Synergistic Effects." *Cell Reports Phys. Sci.* **2022**, 3(4), 100850.
 
 ---
 
