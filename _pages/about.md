@@ -98,8 +98,9 @@ I have published **44 peer-reviewed papers** (h-index = 17) with **1100+ total c
 My work features high-impact publications in prestigious journals including ***Nat. Catal.***, ***Nat. Synth.***, ***Nat. Commun.***, ***Chem***, ***JACS***, and ***Angew. Chem.***. Among these, **19 papers** were as first (co-first) or corresponding author.
 
 ### 📚 Publication Highlights
+
 | Journal | Achievement Snapshot | Year |
-|:---|:---|:---:|
+| :--- | :--- | :---: |
 | **J. Am. Chem. Soc.** | Unraveling the nuclearity effect of triatom $Cu_3$ clusters | 2025 |
 | **Nature Commun.** | High-purity $H_2$ via zeolite-encapsulated Pt-Fe clusters | 2025 |
 | **Angew. Chem.** | Boosting stability of Pt catalysts via framework In(III) sites | 2024 |
