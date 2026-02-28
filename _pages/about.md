@@ -84,7 +84,7 @@ This enables tracking of electronic-structural dynamics and host-guest synergies
 
 I have published **44 peer-reviewed papers** (h-index = 17) with **1900+ total citations**. [![Google Scholar Citations](https://img.shields.io/badge/Google%20Scholar-Citations-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat)](https://scholar.google.com/citations?user=_Gdrw7UAAAAJ)
 
-My work features high-impact publications in prestigious journals, including ***Nat. Catal.***, ***Nat. Synth.***, ***Nat. Commun.***, ***Chem***, ***JACS***, and ***Angew. Chem.***. Among these, **19 papers** were as first (co-first) or corresponding author.
+My work features high-impact publications in prestigious journals, including ***Nat. Catal.***, ***Nat. Synth.***, ***Nat. Commun.***, ***Chem***, ***JACS***, and ***Angew. Chem.***. Among these, **19 papers** were as first (co-first) or corresponding author (_**Nat. Commun. (1)**_, _**JACS (2)**_, _**Angew. Chem. (2)**_, _**Chem. Catal. (1)**_, and _**JMCA (3)**_).
 
 ### 📚 Publication Highlights
 
