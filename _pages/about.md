@@ -57,7 +57,7 @@ This enables tracking of electronic-structural dynamics and host-guest synergies
 
 | Period | Position | Institution |
 
-|--------|----------|-------------|
+|:---|:---|:---|
 
 | **Since Dec. 2025** | Research Assistant Professor | The Hong Kong Polytechnic University |
 
@@ -75,7 +75,7 @@ This enables tracking of electronic-structural dynamics and host-guest synergies
 
 | Degree | Major | Period | Institution | Advisor |
 
-|--------|-------|--------|-----------|---------|
+|:---|:---|:---|:---|:---|
 
 | **PhD** | Chemistry | Sep. 2019 - Oct. 2022 | The Hong Kong Polytechnic University | Prof. Lo Tsz Woon Benedict |
 
@@ -91,9 +91,7 @@ This enables tracking of electronic-structural dynamics and host-guest synergies
 
 ## 🔬 Research Achievements
 
-I have published **44 peer-reviewed papers** (h-index = 17) with **1100+ total citations**.
-
-[![Google Scholar Citations](https://img.shields.io/badge/Google%20Scholar-Citations-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat)](https://scholar.google.com/citations?user=_Gdrw7UAAAAJ)
+I have published **44 peer-reviewed papers** (h-index = 17) with **1900+ total citations**. [![Google Scholar Citations](https://img.shields.io/badge/Google%20Scholar-Citations-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat)](https://scholar.google.com/citations?user=_Gdrw7UAAAAJ)
 
 My work features high-impact publications in prestigious journals including ***Nat. Catal.***, ***Nat. Synth.***, ***Nat. Commun.***, ***Chem***, ***JACS***, and ***Angew. Chem.***. Among these, **19 papers** were as first (co-first) or corresponding author.
 
