@@ -26,7 +26,7 @@ This is the personal academic homepage of **Tianxiang Chen (陈天翔)**, a Rese
 - **Google Scholar**: https://scholar.google.com/citations?user=_Gdrw7UAAAAJ
 - **ORCID**: https://orcid.org/0000-0002-1578-0957
 - **ResearchGate**: https://www.researchgate.net/profile/Tianxiang-Chen-9
-- **PolyU Profile**: [Department of ABCT](https://www.polyu.edu.hk/)
+- **PolyU Profile**: https://www.polyu.edu.hk/abct/people/academic-staff/dr-chen-tianxiang/
 
 
 ---
