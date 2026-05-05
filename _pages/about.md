@@ -18,6 +18,8 @@ redirect_from:
 
 ## 🚀 News
 
+> **May. 2026**: Dr. Xuezhen Feng joined our group as a Postdoctoral Research Fellow. 🎉
+
 > **Feb. 2026**: Dr. Zheng Zhou joined our group as a Postdoctoral Research Fellow. 🎉
 
 > **Jan. 2026**: Dr. Lingfeng Jia joined our group as a Postdoctoral Research Fellow. 🎉
