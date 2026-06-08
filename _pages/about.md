@@ -18,6 +18,10 @@ redirect_from:
 
 ## 🚀 News
 
+> **June. 2026**: Ms. Wan Zhang joined our group as a Research Assistant. 🎉
+
+> **May. 2026**: Dr. Jiawei Zhao joined our group as a short-term Research Fellow. 🎉
+
 > **May. 2026**: Dr. Xuezhen Feng joined our group as a Postdoctoral Research Fellow. 🎉
 
 > **Feb. 2026**: Dr. Zheng Zhou joined our group as a Postdoctoral Research Fellow. 🎉
