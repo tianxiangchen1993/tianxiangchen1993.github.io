@@ -246,8 +246,8 @@ My work features high-impact publications in prestigious journals, including ***
 ## 💰 Funding and Beamtime
 
 ### Research Grants
--- PolyU start-up fund (2025/26)，PI
--- Presidential Global Impact Postdoctoral Fellowship Scheme (2027/30), Co-PI
+-- PolyU Start-up Fund, PI, 2025-2026
+-- Presidential Global Impact Postdoctoral Fellowship Scheme, Co-PI, 2027-2030, 1.58 Million
 
 ---
 
