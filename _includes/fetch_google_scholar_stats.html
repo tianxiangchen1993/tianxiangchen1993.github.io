@@ -1,19 +1,78 @@
 <script>
     $(document).ready(function () {
+        var pageContent = document.querySelector('.page__content');
+        var pageHeading = pageContent ? pageContent.querySelector('h1') : null;
+
+        if (pageContent && pageHeading && pageHeading.textContent.trim() === 'Publications') {
+            var publicationCountMatch = pageContent.textContent.match(/(\d+)\s+peer-reviewed publications/i);
+            var publicationCount = publicationCountMatch ? publicationCountMatch[1] : '—';
+
+            var metricsTable = `
+                <table style="width:100%; table-layout:fixed; text-align:center; margin:1.25rem 0 0.5rem;">
+                    <thead>
+                        <tr>
+                            <th style="text-align:center;">Publications</th>
+                            <th style="text-align:center;">Citations</th>
+                            <th style="text-align:center;">h-index</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="text-align:center; font-size:1.35em;"><strong>${publicationCount}</strong></td>
+                            <td style="text-align:center; font-size:1.35em;"><strong id="total_cit">—</strong></td>
+                            <td style="text-align:center; font-size:1.35em;"><strong id="h_index">—</strong></td>
+                        </tr>
+                    </tbody>
+                </table>
+                <p style="margin-top:0.25rem;"><small>Publication count follows the curated peer-reviewed list below. Citations and h-index are refreshed daily from Google Scholar.</small></p>
+            `;
+
+            pageHeading.insertAdjacentHTML('afterend', metricsTable);
+
+            var summaryParagraph = Array.prototype.find.call(pageContent.querySelectorAll('p'), function (paragraph) {
+                return /peer-reviewed publications/i.test(paragraph.textContent);
+            });
+
+            if (summaryParagraph) {
+                var publicationSummary = Array.prototype.find.call(summaryParagraph.querySelectorAll('strong'), function (strongElement) {
+                    return /peer-reviewed publications/i.test(strongElement.textContent);
+                });
+
+                if (publicationSummary) {
+                    var nextNode = publicationSummary.nextSibling;
+                    publicationSummary.remove();
+                    if (nextNode && nextNode.nodeName === 'BR') {
+                        nextNode.remove();
+                    }
+                }
+            }
+        }
+
         {% if site.google_scholar_stats_use_cdn %}
         var gsDataBaseUrl = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@'
         {% else %}
         var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/'
         {% endif %}
+
         $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
-            var totalCitation = data['citedby']
-            document.getElementById('total_cit').innerHTML = totalCitation;
-            var citationEles = document.getElementsByClassName('show_paper_citations')
+            var citationElement = document.getElementById('total_cit');
+            if (citationElement && data['citedby'] !== undefined) {
+                citationElement.textContent = data['citedby'];
+            }
+
+            var hIndexElement = document.getElementById('h_index');
+            if (hIndexElement && data['hindex'] !== undefined) {
+                hIndexElement.textContent = data['hindex'];
+            }
+
+            var citationEles = document.getElementsByClassName('show_paper_citations');
             Array.prototype.forEach.call(citationEles, element => {
-                var paperId = element.getAttribute('data')
-                var numCitations = data['publications'][paperId]['num_citations']
-                element.innerHTML = '| Citations: ' + numCitations;
+                var paperId = element.getAttribute('data');
+                if (data['publications'] && data['publications'][paperId]) {
+                    var numCitations = data['publications'][paperId]['num_citations'];
+                    element.innerHTML = '| Citations: ' + numCitations;
+                }
             });
         });
-    })
+    });
 </script>
