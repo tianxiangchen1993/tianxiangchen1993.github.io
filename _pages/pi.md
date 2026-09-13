@@ -21,7 +21,7 @@ Dr. Tianxiang Chen leads the **Adaptive Catalysis Group**, which investigates ho
 
 ## Research Profile
 
-Dr. Chen has published **53 peer-reviewed papers**, including **19 papers as first, co-first, or corresponding author**. His work includes publications in *Nature Catalysis*, *Nature Synthesis*, *Nature Communications*, *Chem*, *Journal of the American Chemical Society*, and *Angewandte Chemie International Edition*.
+Dr. Chen has published **54 peer-reviewed papers**, including **20 papers as first, co-first, or corresponding author**. His work includes publications in *Nature Catalysis*, *Nature Synthesis*, *Nature Communications*, *Chem*, *Journal of the American Chemical Society*, and *Angewandte Chemie International Edition*.
 
 Representative research contributions include:
 
