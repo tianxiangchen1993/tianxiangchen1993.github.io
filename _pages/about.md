@@ -38,25 +38,19 @@ We integrate X-ray and neutron diffraction, total scattering and pair distributi
 
 ---
 
-## Selected Publications
+## Publication Highlights
 
-Selected work illustrating our progression from **atomically precise active-site construction** to **reaction-driven catalyst evolution and reconstruction**:
+1. **Trinuclear Metal Cluster Engineering**  
+   **Chen, T.#**, Li, Y.#, Ho, P.-L.#, et al. “Unraveling the Nuclearity Effect of Atomically Choreographed Triatom Cu3 Clusters Supported on Zeolites.” *J. Am. Chem. Soc.* **2025**, 147(20), 17170–17180. [[DOI](https://doi.org/10.1021/jacs.5c02706)]
 
-1. He, F., Li, W., **Chen, T.**, Skorynina, A., Liu, L. "Harnessing Reaction-Driven Structural Evolution of Zeolite-Supported Gold Catalyst for Selective Oxidation Reactions." *J. Am. Chem. Soc.* **2026**, 148(32), 34456–34471. [[DOI](https://doi.org/10.1021/jacs.6c08430)]
+2. **Cu–Co Dual-Atom Catalysts**  
+   **Chen, T.#**, Yu, W.#, Wun, C. K. T., et al. “Cu–Co Dual-Atom Catalysts Supported on Hierarchical USY Zeolites for an Efficient Cross-Dehydrogenative C(sp2)–N Coupling Reaction.” *J. Am. Chem. Soc.* **2023**, 145(15), 8464–8473. [[DOI](https://doi.org/10.1021/jacs.3c00114)]
 
-2. He, Z., Li, W., **Chen, T.**, Marini, C., Lopez Haro, M., Xiao, H., Liu, L. "Managing the Atom Migration in Zeolite-Encapsulated K–Pt–Sn Clusters for Non-Oxidative Dehydrogenation of Ethane." *Nat. Catal.* **2026**, 9, 516–529. [[DOI](https://doi.org/10.1038/s41929-026-01531-w)]
+3. **Chiral Recognition in Zeolites**  
+   **Chen, T.**, Huang, B., Day, S., et al. “Differential Adsorption of L- and D-Lysine on Achiral MFI Zeolites.” *Angew. Chem. Int. Ed.* **2020**, 59(3), 1093–1097. [[DOI](https://doi.org/10.1002/anie.201909352)]
 
-3. **Chen, T.#**, Li, Y.#, Ho, P.-L.#, et al. "Unraveling the Nuclearity Effect of Atomically Choreographed Triatom Cu3 Clusters Supported on Zeolites." *J. Am. Chem. Soc.* **2025**, 147(20), 17170–17180. [[DOI](https://doi.org/10.1021/jacs.5c02706)]
-
-4. He, Z.#, Li, K.#, **Chen, T.#**, et al. "High-Purity Hydrogen Production from Dehydrogenation of Methylcyclohexane Catalyzed by Zeolite-Encapsulated Subnanometer Platinum-Iron Clusters." *Nat. Commun.* **2025**, 16, 92. [[DOI](https://doi.org/10.1038/s41467-024-55370-z)]
-
-5. **Chen, T.#**, Yu, W.#, Wun, C. K. T., et al. "Cu–Co Dual-Atom Catalysts Supported on Hierarchical USY Zeolites for an Efficient Cross-Dehydrogenative C(sp2)–N Coupling Reaction." *J. Am. Chem. Soc.* **2023**, 145(15), 8464–8473. [[DOI](https://doi.org/10.1021/jacs.3c00114)]
-
-6. **Chen, T.#**, Wang, Y.#, Xue, Q., et al. "Atomically Precise Bimetallic Metal Ensembles with Tailorable Synergistic Effects." *Cell Reports Phys. Sci.* **2022**, 3(4), 100850. [[DOI](https://doi.org/10.1016/j.xcrp.2022.100850)]
-
-7. Wun, C. K. T.#, Mok, H. K.#, **Chen, T.#**, et al. "Atomically Dispersed 3d Metal Bimetallic Dual-Atom Catalysts and Classification of the Structural Descriptors." *Chem Catal.* **2022**, 2(9), 2346–2363. [[DOI](https://doi.org/10.1016/j.checat.2022.07.027)]
-
-8. **Chen, T.**, Huang, B., Day, S., et al. "Differential Adsorption of L- and D-Lysine on Achiral MFI Zeolites as Determined by Synchrotron X-Ray Powder Diffraction and Thermogravimetric Analysis." *Angew. Chem. Int. Ed.* **2020**, 59(3), 1093–1097. [[DOI](https://doi.org/10.1002/anie.201909352)]
+4. **Atomically Precise Bimetallic Catalysts**  
+   **Chen, T.#**, Wang, Y.#, Xue, Q., et al. “Atomically Precise Bimetallic Metal Ensembles with Tailorable Synergistic Effects.” *Cell Reports Phys. Sci.* **2022**, 3(4), 100850. [[DOI](https://doi.org/10.1016/j.xcrp.2022.100850)]
 
 [View all 53 publications →](/publications/)
 
