@@ -15,14 +15,18 @@ author_profile: true
 
 ## Approved Beamtime
 
-| Proposal ID | Facility | Beamline / Technique | Role | Awarded Beamtime |
-| :--- | :--- | :--- | :---: | :---: |
-| **GEN-26-00932** | High Energy Photon Source (HEPS), Beijing | **ID46 X-ray Absorption Spectroscopy** | PI | **24 h** |
-| **2026-NFPS-PT-502991** | Shanghai Synchrotron Radiation Facility (SSRF) | **BL01B Time-Resolved Spectroscopy & Microscopy Infrared Beamline** | PI | **24 h** |
-| — | National Synchrotron Radiation Research Center (NSRRC), Taiwan | **TPS 19A1 XRD** | PI | **24 h** |
-| — | National Synchrotron Radiation Research Center (NSRRC), Taiwan | **TPS 44A1 XAS** | PI | **24 h** |
-| — | National Synchrotron Radiation Research Center (NSRRC), Taiwan | **TLS 01C1 XAS** | PI | **24 h** |
+| Facility | Beamline / Technique | Role | Awarded Beamtime |
+| :--- | :--- | :---: | :---: |
+| High Energy Photon Source (HEPS), Beijing | **ID46 X-ray Absorption Spectroscopy** | PI | **24 h** |
+| Shanghai Synchrotron Radiation Facility (SSRF) | **BL01B Time-Resolved Spectroscopy & Microscopy Infrared Beamline** | PI | **24 h** |
+| National Synchrotron Radiation Research Center (NSRRC), Taiwan | **TPS 19A1 XRD** | PI | **24 h** |
+| National Synchrotron Radiation Research Center (NSRRC), Taiwan | **TPS 44A1 XAS** | PI | **24 h** |
+| National Synchrotron Radiation Research Center (NSRRC), Taiwan | **TLS 01C1 XAS** | PI | **24 h** |
 
 ---
 
 The group uses competitive synchrotron access to investigate catalyst structure, dynamic reconstruction, and structure–function relationships under relevant reaction conditions.
+
+We welcome academic collaborations involving synchrotron-based characterization, operando studies, and catalyst structure–function relationships.
+
+**Contact:** Dr. Tianxiang Chen — [txchen@polyu.edu.hk](mailto:txchen@polyu.edu.hk)
