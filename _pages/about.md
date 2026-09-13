@@ -48,7 +48,7 @@ We integrate X-ray and neutron diffraction, total scattering and pair distributi
 
 4. **Chen, T.**, Huang, B., Day, S., et al. "Differential Adsorption of L- and D-Lysine on Achiral MFI Zeolites as Determined by Synchrotron X-Ray Powder Diffraction and Thermogravimetric Analysis." *Angew. Chem. Int. Ed.* **2020**, 59(3), 1093–1097.
 
-[View all 50 publications →](/publications/)
+[View all 53 publications →](/publications/)
 
 ---
 
