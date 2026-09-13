@@ -15,14 +15,6 @@ Our central premise is:
 
 **Precise precursor design → controlled reconstruction → dynamic active-site ensemble → catalytic function → recovery or deactivation**
 
-<div style="text-align:center; margin:1.5rem 0 1rem;">
-  <img src="{{ '/images/research/adaptive-catalysis-concept.svg' | relative_url }}" alt="Adaptive catalysis framework showing precise precursor design, controlled reconstruction, a dynamic working-state ensemble, and catalytic function or deactivation." style="width:100%; max-width:1200px; height:auto;">
-</div>
-
-<p style="text-align:center; font-size:0.88em; color:#666; margin-top:0;">
-Conceptual framework of adaptive catalysis: the synthesized precursor defines the accessible structural landscape, while reaction conditions select and reshape the working-state ensemble. Operando and time-resolved evidence is used to distinguish productive adaptation from irreversible deactivation.
-</p>
-
 We therefore ask not only *what structure was synthesized*, but also *which structure forms under reaction conditions, why it forms, whether it is reversible, and how that structural evolution determines catalytic performance*.
 
 ---
