@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Tianxiang Chen"
-description              : "Chem is Try "
+title                    : "Adaptive Catalysis Group"
+description              : "Revealing and controlling dynamic catalyst evolution through atomically precise design and operando structural characterization."
 repository               : "tianxiangchen1993/tianxiangchen1993.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tianxiang Chen（陈天翔）"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : ""
+  bio              : "Research Assistant Professor | Adaptive Catalysis Group"
   location         : "Hong Kong, China"
-  employer         :
-  pubmed           : 
+  employer         : "The Hong Kong Polytechnic University"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=_Gdrw7UAAAAJ"
-  email            : "tianxiangchen1993@gmail.com"
+  email            : "txchen@polyu.edu.hk"
   researchgate     : "https://www.researchgate.net/profile/Tianxiang-Chen-9"
   uri              :
   bitbucket        :
@@ -37,21 +37,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "tianxiangchen1993"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  linkedin         :
+  dblp             :
   orcid            : "https://orcid.org/0000-0002-1578-0957"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # e.g., http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
@@ -131,12 +131,12 @@ defaults:
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed
 
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai
 
 
 # Plugins
@@ -156,7 +156,6 @@ whitelist:
 
 
 # HTML Compression
-# - http://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
