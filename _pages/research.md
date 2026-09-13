@@ -1,75 +1,93 @@
 ---
 permalink: /research/
 title: "Research"
-excerpt: "Research themes of the Adaptive Catalysis Group."
+excerpt: "Adaptive catalysis: dynamic active-site reconstruction, atomically precise multinuclear catalysts, and causal structure-function relationships under working conditions."
 author_profile: true
 ---
 
 # Research
 
-The Adaptive Catalysis Group focuses on a central question: **how does the structure of a catalyst change while it is working, and how can those changes be controlled?**
+## Adaptive Catalysis: Catalysts as Evolving Systems
 
-Catalytic active sites are rarely static. Their nuclearity, coordination environment, oxidation state, spatial distribution, and interaction with the surrounding host can evolve in response to reactants, products, temperature, water, and repeated catalytic cycling. We aim to resolve these changes at the molecular and atomic levels and translate them into design rules for more active, selective, and stable catalysts.
+The Adaptive Catalysis Group studies catalysts as **dynamic chemical systems rather than fixed structures**. The material that is synthesized is only the starting state. Under reaction conditions, active sites can change their nuclearity, coordination environment, oxidation state, spatial arrangement, and interaction with the surrounding host.
+
+Our central premise is:
+
+**Precise precursor design → controlled reconstruction → dynamic active-site ensemble → catalytic function → recovery or deactivation**
+
+We therefore ask not only *what structure was synthesized*, but also *which structure forms under reaction conditions, why it forms, whether it is reversible, and how that structural evolution determines catalytic performance*.
 
 ---
 
-## 1. Dynamic Catalyst Evolution and Reconstruction
+## Scientific Question 1 — How do active sites reconstruct during catalysis?
 
-We investigate the structural evolution of catalytic active sites under reaction conditions. Particular attention is given to:
+We investigate how reactants, products, temperature, water, redox environment, and repeated catalytic cycling reshape active sites while a reaction is proceeding.
 
-- reversible and irreversible active-site reconstruction
-- changes in metal nuclearity and coordination environment
-- migration, aggregation, and redispersion of metal species
-- reaction-induced changes in metal–support and host–guest interactions
+The key problem is to distinguish **productive adaptation** from **irreversible deactivation**. A change in structure may generate the catalytically competent state, but the same driving force can also lead to migration, aggregation, framework damage, or loss of active-site definition.
+
+We focus on resolving:
+
+- changes in metal nuclearity and local coordination
+- migration, aggregation, redispersion, and site exchange
+- reversible versus irreversible structural evolution
+- coupling between host structure and active-site reconstruction
 - structural origins of activation, selectivity changes, and deactivation
 
-A key objective is to distinguish the **structure initially synthesized** from the **structure that actually performs catalysis**.
+The long-term objective is to establish a **reconstruction map** that links reaction environment, structural state, timescale, and catalytic function.
 
 ---
 
-## 2. Atomically Precise Multinuclear Active Sites
+## Scientific Question 2 — Can dynamic active sites be programmed before reaction?
 
-Low-nuclearity metal ensembles provide a bridge between isolated single sites and larger nanoparticles. We develop synthetic strategies that control the number, composition, and spatial arrangement of neighboring metal centers within porous hosts.
+Catalyst reconstruction is often treated as an uncontrolled phenomenon. We instead ask whether the reconstruction pathway itself can be biased through deliberate molecular and materials design.
 
-Our work is particularly interested in:
+Low-nuclearity metal ensembles confined in porous hosts provide an experimentally tractable platform for this problem. By controlling the starting nuclearity, composition, local geometry, host topology, and surrounding coordination environment, we aim to define which structural transformations are accessible under reaction conditions.
 
-- single-site, dual-site, and multinuclear metal ensembles
+Our design strategies include:
+
+- atomically precise single-site, dual-site, and multinuclear metal ensembles
+- homo- and heterometallic active-site architectures
 - ligand-mediated and host-directed assembly
-- confinement effects in zeolites and related porous materials
-- cooperative reactivity between adjacent active sites
-- nuclearity-dependent catalytic activity and selectivity
+- confinement within zeolites and related porous materials
+- control of local framework charge and the secondary coordination environment
 
-These structurally defined systems provide model platforms for identifying how local geometry and cooperative interactions govern catalytic function.
-
----
-
-## 3. Operando and Multiscale Structural Characterization
-
-Dynamic catalytic structures require measurements that follow the catalyst under relevant environments. We therefore combine complementary structural methods across local and long-range length scales.
-
-Core approaches include:
-
-- **X-ray and neutron diffraction** for long-range structure and crystallographic analysis
-- **Total scattering and pair distribution function analysis** for local and intermediate-range structure
-- **X-ray absorption spectroscopy** for local coordination and electronic structure
-- **Operando and time-resolved measurements** to connect structural evolution with catalytic performance
-
-The aim is not simply to collect multiple characterization datasets. The goal is to build a coherent evidence chain that distinguishes competing structural models and identifies the catalytically relevant state.
+The goal is not to make active sites completely rigid. Instead, we seek an **adaptive window** in which the site can reorganize enough to perform chemistry while remaining protected from uncontrolled migration, aggregation, and irreversible collapse.
 
 ---
 
-## Research Strategy
+## Scientific Question 3 — Which evolving structure is causally responsible for catalytic function?
 
-Our research follows a recurring framework:
+Dynamic catalysts can generate multiple structural states during a single reaction. Simply observing that two quantities change together is therefore insufficient to assign an active structure.
 
-**Precise synthesis → controlled perturbation → operando observation → competing structural hypotheses → structure–function relationship → catalyst redesign**
+We treat active-site identification as a **model-selection problem**. Competing structural hypotheses are tested through controlled perturbations, time-resolved measurements, control experiments, and direct comparison with catalytic rates and selectivities.
 
-This framework allows us to treat catalyst restructuring not only as a source of instability, but also as a potentially controllable dimension of catalyst design.
+Our aim is to move from static structure–activity correlations toward **causal dynamic structure–function relationships**.
 
 ---
 
-## Broader Applications
+## Evidence Framework
 
-The concepts developed in the group are relevant to selective oxidation, dehydrogenation, C–N bond formation, hydrogenation, photocatalysis, electrocatalysis, and other reactions in which active-site structure changes dynamically during operation.
+Our research follows a recurring logic:
 
-For representative work, see our [Publications](/publications/) page.
+**Structurally constrained precursor → controlled chemical perturbation → time-resolved structural observation → competing hypotheses → falsification and controls → catalytic consequence → catalyst redesign**
+
+Structural characterization is used to discriminate between mechanistic models rather than as an endpoint by itself. Depending on the problem, we combine:
+
+- X-ray and neutron diffraction for long-range structural evolution
+- total scattering and pair distribution function analysis for local and intermediate-range structure
+- X-ray absorption spectroscopy for local coordination and electronic structure
+- complementary spectroscopic and reaction analysis to connect structural changes with chemical function
+
+This framework is designed to identify the **working catalyst**, not simply the most convenient ex situ structural model.
+
+---
+
+## Research Scope
+
+The concepts developed in the group are applied to catalytic systems where active-site structure is expected to evolve substantially under operating conditions. Current interests include porous and zeolite-confined catalysts, multinuclear metal ensembles, selective oxidation, dehydrogenation, C–N bond formation, hydrogenation, and related energy and sustainability reactions.
+
+Across these systems, the unifying question remains the same:
+
+> **Can catalyst restructuring be understood well enough to become a controllable design variable?**
+
+For representative work, see our [Publication Highlights](/#publication-highlights) and [full publication list](/publications/).
