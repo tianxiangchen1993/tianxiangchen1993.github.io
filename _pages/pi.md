@@ -10,7 +10,7 @@ author_profile: true
 ## Dr. Tianxiang Chen
 
 **Research Assistant Professor**  
-Department of Applied Biology and Chemical Technology (ABCT)  
+Department of Chemistry (CHEM)  
 The Hong Kong Polytechnic University
 
 Dr. Tianxiang Chen leads the **Adaptive Catalysis Group**, which investigates how catalytic active sites evolve and reconstruct under reaction conditions. His research combines atomically precise catalyst design with synchrotron-based diffraction, total scattering, and X-ray absorption spectroscopy to establish dynamic structure–function relationships in catalytic materials.
@@ -39,7 +39,7 @@ Representative research contributions include:
 
 | Period | Position | Institution |
 | :--- | :--- | :--- |
-| **Since Dec. 2025** | Research Assistant Professor | The Hong Kong Polytechnic University (PolyU) |
+| **Since Dec. 2025** | Research Assistant Professor | Department of Chemistry (CHEM), The Hong Kong Polytechnic University |
 | **May 2024 – Oct. 2025** | Visiting Scholar | Tsinghua University, Prof. Lichen Liu |
 | **Oct. 2022 – Nov. 2025** | Postdoctoral Research Fellow | The Hong Kong Polytechnic University, Prof. Tsz Woon Benedict Lo |
 | **May 2018 – Apr. 2019** | Research Assistant | The Hong Kong Polytechnic University, Prof. Tsz Woon Benedict Lo |
