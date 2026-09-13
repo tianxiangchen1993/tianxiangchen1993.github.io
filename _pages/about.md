@@ -61,7 +61,7 @@ We integrate X-ray and neutron diffraction, total scattering and pair distributi
 The Adaptive Catalysis Group brings together postdoctoral researchers, PhD students, and research assistants working on catalyst synthesis, structural characterization, and reaction mechanisms.
 
 **Postdoctoral Research Fellows**  
-Dr. Liu Biyuan · Dr. Lingfeng Jia · Dr. Xuezhen Feng
+Dr. Biyuan Liu · Dr. Lingfeng Jia · Dr. Xuezhen Feng
 
 **PhD Students**  
 Mr. Binwen Zeng · Ms. Lei Xie
