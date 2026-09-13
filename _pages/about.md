@@ -52,7 +52,7 @@ We integrate X-ray and neutron diffraction, total scattering and pair distributi
 4. **Atomically Precise Bimetallic Catalysts**  
    **Chen, T.#**, Wang, Y.#, Xue, Q., et al. “Atomically Precise Bimetallic Metal Ensembles with Tailorable Synergistic Effects.” *Cell Reports Phys. Sci.* **2022**, 3(4), 100850. [[DOI](https://doi.org/10.1016/j.xcrp.2022.100850)]
 
-[View all 54 publications →](/publications/)
+[View all 55 publications →](/publications/)
 
 ---
 
