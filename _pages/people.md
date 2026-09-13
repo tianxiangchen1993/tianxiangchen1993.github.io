@@ -22,7 +22,7 @@ Research interests include adaptive catalytic materials, dynamic catalyst recons
 
 ## Postdoctoral Research Fellows
 
-### Dr. Liu Biyuan
+### Dr. Biyuan Liu
 Postdoctoral Research Fellow
 
 ### Dr. Lingfeng Jia
