@@ -13,9 +13,11 @@ The Adaptive Catalysis Group is supported by competitive external and institutio
 
 | Period | Scheme | Role | Amount |
 | :--- | :--- | :--- | :--- |
-| **2027–2030** | National Natural Science Foundation of China (NSFC) Young Scientists Fund (Category C) | PI | RMB 300,000 |
-| **2027–2030** | Presidential Global Impact Postdoctoral Fellowship Scheme | Co-PI | HKD 1,580,000 |
-| **2025–2027** | PolyU Start-up Fund | PI | HKD 300,000 |
+| — | National Natural Science Foundation of China (NSFC) Young Scientists Fund (Category C) | PI | RMB 300,000 |
+| **2027–2030** | Presidential Global Impact Postdoctoral Fellowship Scheme | Co-PI | 1.58 million |
+| **2025–2026** | PolyU Start-up Fund | PI | — |
+
+*The NSFC project period and currency for the Presidential Global Impact Postdoctoral Fellowship Scheme are not specified here because they were not provided in the current source information.*
 
 ---
 
