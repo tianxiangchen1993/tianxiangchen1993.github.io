@@ -11,7 +11,7 @@ author_profile: true
 
 ### Dr. Tianxiang Chen
 **Research Assistant Professor**  
-Department of Applied Biology and Chemical Technology  
+Department of Chemistry (CHEM)  
 The Hong Kong Polytechnic University
 
 Research interests include adaptive catalytic materials, dynamic catalyst reconstruction, atomically precise multinuclear metal sites, porous catalytic materials, and operando structural characterization.
