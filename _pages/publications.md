@@ -20,41 +20,41 @@ author_profile: true
 
 1. Shan, L.#, **Chen, T.#**, Li, S.#, Tang, B., Yang, Y., Rao, P., Li, J., Wun, C. K. T., Lee, D., Li, M., Lo, T. W. B., Yang, S. "Exceptional Electroreduction of Nitrate to Ammonia Promoted by Concerted Electron–Proton Transfer in Cu-Decorated MFI Zeolites." **ACS Appl. Mater. Interfaces**, 2025, 17(39), 54807–54815.
 
-2. **Chen, T.#**, Li, Y.#, Ho, P.-L.#, Leung, K. C., Liu, J., Wun, C. K. T., Li, Z., Tang, C. C., Kawaguchi, S., Wu, T.-S., Soo, Y.-L., Yin, J., Edman Tsang, S. C., Lo, T. W. B.* "Unraveling the Nuclearity Effect of Atomically Choreographed Triatom Cu3 Clusters Supported on Zeolites." **J. Am. Chem. Soc.**, 2025, 147(20), 17170–17180.
+2. **Chen, T.#**, Li, Y.#, Ho, P.-L.#, Leung, K. C., Liu, J., Wun, C. K. T., Li, Z., Tang, C. C., Kawaguchi, S., Wu, T.-S., Soo, Y.-L., Yin, J., Edman Tsang, S. C., Lo, T. W. B.\* "Unraveling the Nuclearity Effect of Atomically Choreographed Triatom Cu3 Clusters Supported on Zeolites." **J. Am. Chem. Soc.**, 2025, 147(20), 17170–17180.
 
-3. Li, Y., Wun, C. K. T., **Chen, T.***, Lo, T. W. B. "Investigating Size-Dependent Selectivity in Benzaldehyde Reductive Amination via Ni Nanoparticles." **Mater. Today Catal.**, 2025, 9, 100100.
+3. Li, Y., Wun, C. K. T., **Chen, T.**\*, Lo, T. W. B. "Investigating Size-Dependent Selectivity in Benzaldehyde Reductive Amination via Ni Nanoparticles." **Mater. Today Catal.**, 2025, 9, 100100.
 
-4. Liu, H., Zhang, Y., Liu, L., **Chen, T.***, Zhang, X., Hu, P., Xiong, C., Zhou, J., Zhang, H., Dong, L., Lo, T. W. B., Nan, B., He, X., Ji, H. "Platinum Clusters Stabilized by Zincosilicate Zeolite for Efficient Propane Dehydrogenation." **Chinese J. Catal.**, 2025, 71, 208–219.
+4. Liu, H., Zhang, Y., Liu, L., **Chen, T.**\*, Zhang, X., Hu, P., Xiong, C., Zhou, J., Zhang, H., Dong, L., Lo, T. W. B., Nan, B., He, X., Ji, H. "Platinum Clusters Stabilized by Zincosilicate Zeolite for Efficient Propane Dehydrogenation." **Chinese J. Catal.**, 2025, 71, 208–219.
 
 5. He, Z.#, Li, K.#, **Chen, T.#**, Feng, Y., Villalobos-Portillo, E., Marini, C., Lo, T. W. B., Yang, F., Zhang, L., Liu, L. "High-Purity Hydrogen Production from Dehydrogenation of Methylcyclohexane Catalyzed by Zeolite-Encapsulated Subnanometer Platinum-Iron Clusters." **Nat. Commun.**, 2025, 16(1), 92.
 
-6. Fu, G., Li, Y., Hou, Z., Wang, S., Jiang, S., **Chen, T.***, Lo, T. W. B., Chen, X. "Diatomic Cobalt–Catalyzed Cyclization of o-Aminobenzyl Alcohol with Amidine for the Synthesis of Quinazolines." **J. Catal.**, 2025, 442, 115889.
+6. Fu, G., Li, Y., Hou, Z., Wang, S., Jiang, S., **Chen, T.**\*, Lo, T. W. B., Chen, X. "Diatomic Cobalt–Catalyzed Cyclization of o-Aminobenzyl Alcohol with Amidine for the Synthesis of Quinazolines." **J. Catal.**, 2025, 442, 115889.
 
 7. Liu, H.#, Chu, B.#, **Chen, T.#**, Zhou, J., Dong, L., Lo, T. W. B., Li, B., He, X., Ji, H. "Modulation of the Cobalt Species State on Zincosilicate to Maximize Propane Dehydrogenation to Propylene." **Chinese J. Catal.**, 2024, 66, 168–180.
 
 8. Zhu, C.#, Li, W.#, **Chen, T.#**, He, Z., Villalobos, E., Marini, C., Zhou, J., Woon Lo, B. T., Xiao, H., Liu, L. "Boosting the Stability of Subnanometer Pt Catalysts by the Presence of Framework Indium(III) Sites in Zeolite." **Angew. Chem. Int. Ed.**, 2024, 63(41), e202409784.
 
-9. **Chen, T.#**, Yu, W.#, Wun, C. K. T., Wu, T. S., Sun, M., Day, S. J., Li, Z., Yuan, B., Wang, Y., Li, M., Wang, Z., Peng, Y. K., Yu, W. Y., Wong, K. Y., Huang, B., Liang, T., Lo, T. W. B.* "Cu–Co Dual-Atom Catalysts Supported on Hierarchical USY Zeolites for an Efficient Cross-Dehydrogenative C(sp2)–N Coupling Reaction." **J. Am. Chem. Soc.**, 2023, 145(15), 8464–8473.
+9. **Chen, T.#**, Yu, W.#, Wun, C. K. T., Wu, T. S., Sun, M., Day, S. J., Li, Z., Yuan, B., Wang, Y., Li, M., Wang, Z., Peng, Y. K., Yu, W. Y., Wong, K. Y., Huang, B., Liang, T., Lo, T. W. B.\* "Cu–Co Dual-Atom Catalysts Supported on Hierarchical USY Zeolites for an Efficient Cross-Dehydrogenative C(sp2)–N Coupling Reaction." **J. Am. Chem. Soc.**, 2023, 145(15), 8464–8473.
 
 10. Li, Z.#, **Chen, T.#**, Chen, Y., Chen, X., Li, L., Kuang, S., Gao, J., Guo, Y., Lo, T. W. B., Du, J. "Improved H2O2 Photogeneration on Rb-Doped-Polymeric Carbon Nitride via Enhanced O2 Adsorption." **J. Mater. Chem. A**, 2023, 11(11), 5925–5936.
 
 11. Xue, Q.#, Wun, C. K. T.#, **Chen, T.#**, Kawaguchi, S., Day, S., Tang, C., Wu, T.-S., Soo, Y.-L., Lin, C., Peng, Y.-K., Yin, J., Lo, T. W. B. "Controlled Synthesis of Cu,Fe Dual-Atom Catalysts Restrained on Metal–Organic Frameworks for Efficient O2 Activation." **J. Mater. Chem. A**, 2023, 11(26), 14204–14212.
 
-12. **Chen, T.#**, Wang, Y.#, Xue, Q., Wun, C. K. T., So, P. K., Yung, K. F., Wu, T.-S., Soo, Y.-L., Taniya, K., Day, S., Tang, C. C., Li, Z., Huang, B., Tsang, S. C. E., Wong, K. Y., Lo, T. W. B.* "Atomically Precise Bimetallic Metal Ensembles with Tailorable Synergistic Effects." **Cell Reports Phys. Sci.**, 2022, 3(4), 100850.
+12. **Chen, T.#**, Wang, Y.#, Xue, Q., Wun, C. K. T., So, P. K., Yung, K. F., Wu, T.-S., Soo, Y.-L., Taniya, K., Day, S., Tang, C. C., Li, Z., Huang, B., Tsang, S. C. E., Wong, K. Y., Lo, T. W. B.\* "Atomically Precise Bimetallic Metal Ensembles with Tailorable Synergistic Effects." **Cell Reports Phys. Sci.**, 2022, 3(4), 100850.
 
 13. Wun, C. K. T.#, Mok, H. K.#, **Chen, T.#**, Wu, T. S., Taniya, K., Nakagawa, K., Day, S., Tang, C. C., Huang, Z., Su, H., Yu, W. Y., Lee, T. K. W., Lo, T. W. B. "Atomically Dispersed 3d Metal Bimetallic Dual-Atom Catalysts and Classification of the Structural Descriptors." **Chem Catal.**, 2022, 2(9), 2346–2363.
 
 14. Lu, Y.#, **Chen, T.#**, Xiao, X., Huang, N., Dou, Y., Wei, W., Zhang, Z., Lo, T. W. B., Liang, T. "Copper Dual-Atom Catalyst Mediated C3–H Amination of Indoles at Room Temperature." **Catal. Sci. Technol.**, 2022, 12(17), 5390–5396.
 
-15. **Chen, T.**, Ye, L., Lo, T. W. B.* "Designing the Electronic and Geometric Structures of Single-Atom and Nanocluster Catalysts." **J. Mater. Chem. A**, 2021, 9(35), 18773–18784.
+15. **Chen, T.**, Ye, L., Lo, T. W. B.\* "Designing the Electronic and Geometric Structures of Single-Atom and Nanocluster Catalysts." **J. Mater. Chem. A**, 2021, 9(35), 18773–18784.
 
-16. **Chen, T.**, Huang, B., Day, S., Tang, C. C., Tsang, S. C. E., Wong, K. Y., Lo, T. W. B.* "Differential Adsorption of L- and D-Lysine on Achiral MFI Zeolites as Determined by Synchrotron X-Ray Powder Diffraction and Thermogravimetric Analysis." **Angew. Chem. Int. Ed.**, 2020, 59(3), 1093–1097.
+16. **Chen, T.**, Huang, B., Day, S., Tang, C. C., Tsang, S. C. E., Wong, K. Y., Lo, T. W. B.\* "Differential Adsorption of L- and D-Lysine on Achiral MFI Zeolites as Determined by Synchrotron X-Ray Powder Diffraction and Thermogravimetric Analysis." **Angew. Chem. Int. Ed.**, 2020, 59(3), 1093–1097.
 
-17. **Chen, T.**, Wun, C. K. T., Day, S. J., Tang, C. C., Lo, T. W. B.* "Enantiospecificity in Achiral Zeolites for Asymmetric Catalysis." **Phys. Chem. Chem. Phys.**, 2020, 22(34), 18757–18764.
+17. **Chen, T.**, Wun, C. K. T., Day, S. J., Tang, C. C., Lo, T. W. B.\* "Enantiospecificity in Achiral Zeolites for Asymmetric Catalysis." **Phys. Chem. Chem. Phys.**, 2020, 22(34), 18757–18764.
 
-18. **Chen, T.**, Xue, Q., Leung, K., Lo, B. T. W.* "Recent Advances of Precise Cu Nanoclusters in Microporous Materials." **Chem. Asian J.**, 2020, 15(12), 1819–1828.
+18. **Chen, T.**, Xue, Q., Leung, K., Lo, B. T. W.\* "Recent Advances of Precise Cu Nanoclusters in Microporous Materials." **Chem. Asian J.**, 2020, 15(12), 1819–1828.
 
-19. **Chen, T.**, Chen, C., Liu, Q., Zhang, Z., Fang, X.* "A One-Step Process for Preparing a Phenyl-Modified g-C3N4 Green Phosphor with a High Quantum Yield." **RSC Adv.**, 2017, 7(81), 51702–51710.
+19. **Chen, T.**, Chen, C., Liu, Q., Zhang, Z., Fang, X.\* "A One-Step Process for Preparing a Phenyl-Modified g-C3N4 Green Phosphor with a High Quantum Yield." **RSC Adv.**, 2017, 7(81), 51702–51710.
 
 ---
 
@@ -106,7 +106,7 @@ author_profile: true
 
 42. Fan, Y., Xu, S., Cai, X., Hou, Z., **Chen, T.**, Fu, G., Zhu, Z., Chen, X. "Bifunctionalization of Styrene through Ring-Opening-Recombination Strategy of Phenylpropathiazole Salt." **Org. Biomol. Chem.**, 2023, 21(37), 7593–7596.
 
-43. Liu, Q., Cheng, H., **Chen, T.**, Lo, T. W. B., Xiang, Z., Wang, F. "Regulating the *OCCHO Intermediate Pathway towards Highly Selective Photocatalytic CO2 Reduction to CH3CHO over Locally Crystallized Carbon Nitride." **Energy Environ. Sci.**, 2022, 15(1), 225–233.
+43. Liu, Q., Cheng, H., **Chen, T.**, Lo, T. W. B., Xiang, Z., Wang, F. "Regulating the \*OCCHO Intermediate Pathway towards Highly Selective Photocatalytic CO2 Reduction to CH3CHO over Locally Crystallized Carbon Nitride." **Energy Environ. Sci.**, 2022, 15(1), 225–233.
 
 44. Xie, Y., Ou, P., Wang, X., Xu, Z., Li, Y. C., Wang, Z., Huang, J. E., Wicks, J., McCallum, C., Wang, N., Wang, Y., **Chen, T.**, Lo, B. T. W., Sinton, D., Yu, J. C., Wang, Y., Sargent, E. H. "High Carbon Utilization in CO2 Reduction to Multi-Carbon Products in Acidic Media." **Nat. Catal.**, 2022, 5(6), 564–570.
 
