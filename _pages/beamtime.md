@@ -9,9 +9,9 @@ author_profile: true
 
 ## PI-led Beamtime Summary
 
-| Approved Proposals | Facilities |
-| :---: | :---: |
-| **3** | **3** |
+| Approved Allocations | Total Approved Beamtime | Facilities |
+| :---: | :---: | :---: |
+| **5** | **120 h** | **3** |
 
 ## Approved Beamtime
 
@@ -19,7 +19,9 @@ author_profile: true
 | :--- | :--- | :--- | :---: | :---: |
 | **GEN-26-00932** | High Energy Photon Source (HEPS), Beijing | **ID46 X-ray Absorption Spectroscopy** | PI | **24 h** |
 | **2026-NFPS-PT-502991** | Shanghai Synchrotron Radiation Facility (SSRF) | **BL01B Time-Resolved Spectroscopy & Microscopy Infrared Beamline** | PI | **24 h** |
-| — | National Synchrotron Radiation Research Center (NSRRC), Taiwan | **TPS 19A1 PXRD** | PI | **2 days** |
+| — | National Synchrotron Radiation Research Center (NSRRC), Taiwan | **TPS 19A1 XRD** | PI | **24 h** |
+| — | National Synchrotron Radiation Research Center (NSRRC), Taiwan | **TPS 44A1 XAS** | PI | **24 h** |
+| — | National Synchrotron Radiation Research Center (NSRRC), Taiwan | **TLS 01C1 XAS** | PI | **24 h** |
 
 ---
 
