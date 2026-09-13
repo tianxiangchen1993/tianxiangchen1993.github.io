@@ -7,7 +7,7 @@ author_profile: true
 
 # Publications
 
-**54 peer-reviewed publications**  
+**55 peer-reviewed publications**  
 **20 first, co-first, or corresponding-author papers**
 
 [# denotes co-first author, * denotes corresponding author]
@@ -16,7 +16,7 @@ author_profile: true
 
 ---
 
-## I. First, Co-first (#) & Corresponding Author (*) Papers (20/54)
+## I. First, Co-first (#) & Corresponding Author (*) Papers (20/55)
 
 1. Li, X.#, **Chen, T.#**, He, J.#, Gao, M., He, F., Marini, C., Villalobos-Portillo, E., Liu, L.\* "Structural Evolution of Pd-Zeolite Catalyst and Its Consequence in the Activation and Deactivation for Methane Combustion." **ACS Catal.**, 2026, 16(17), 17298–17313. [[DOI](https://doi.org/10.1021/acscatal.6c04462)]
 
@@ -60,7 +60,7 @@ author_profile: true
 
 ---
 
-## II. Collaborative Publications (34/54)
+## II. Collaborative Publications (35/55)
 
 21. Luo, B., Wu, Y., **Chen, T.**, Marini, C., Villalobos-Portillo, E., Dong, L., Li, D., Li, B., He, H., Chen, Z. "Tailoring Atomic-Level Electron Redistribution of Metal Phosphides/Oxides Heterostructural Catalyst for Efficient Alkaline Freshwater/Seawater Hydrogen Evolution." **J. Mater. Sci. Technol.**, 2027, 278, 114–122. [[DOI](https://doi.org/10.1016/j.jmst.2026.05.018)]
 
@@ -129,3 +129,5 @@ author_profile: true
 53. Liu, Q., **Chen, T.**, Guo, Y., Zhang, Z., Fang, X. "Ultrathin g-C3N4 Nanosheets Coupled with Carbon Nanodots as 2D/0D Composites for Efficient Photocatalytic H2 Evolution." **Appl. Catal. B Environ.**, 2016, 193, 248–258. [[DOI](https://doi.org/10.1016/j.apcatb.2016.04.034)]
 
 54. Guo, Y., **Chen, T.**, Liu, Q., Zhang, Z., Fang, X. "Insight into the Enhanced Photocatalytic Activity of Potassium and Iodine Codoped Graphitic Carbon Nitride Photocatalysts." **J. Phys. Chem. C**, 2016, 120(44), 25328–25337. [[DOI](https://doi.org/10.1021/acs.jpcc.6b06921)]
+
+55. "Programmable Guest-Induced 5-Phase-Transition Topological Reconstructions of Cobalt Formate Metal–Organic Frameworks." **Adv. Sci.**, 2026, Early View, e77629. [Collaborative publication; **Tianxiang Chen** is a co-author.] [[DOI](https://doi.org/10.1002/advs.77629)]
