@@ -1,6 +1,6 @@
-/* ==========================================================================
+/* ============================================================================
    SIDEBAR
-   ========================================================================== */
+   ============================================================================ */
 
 /*
    Default
@@ -12,6 +12,7 @@
 
   @include clearfix();
   margin-bottom: 1em;
+  min-width: 0;
 
   @include breakpoint($large) {
     @include span(2 of 12);
@@ -76,6 +77,8 @@
   justify-content: flex-start;
   align-content: flex-start;
   align-items: center;
+  min-width: 0;
+  max-width: 100%;
 }
 
 .author__avatar {
@@ -114,6 +117,7 @@
   @include breakpoint($large) {
     display: block;
     width: 100%;
+    min-width: 0;
     padding-left: 0;
     padding-right: 0;
   }
@@ -138,6 +142,7 @@
 
 .author__bio {
   margin: 0;
+  overflow-wrap: anywhere;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -151,9 +156,10 @@
   vertical-align: middle;
   font-family: $sans-serif;
   z-index: 10;
-  position: relative;
   margin-left: auto;
   cursor: pointer;
+  min-width: 0;
+  max-width: 100%;
 
   li:last-child {
     a {
@@ -163,6 +169,7 @@
 
   @include breakpoint($large) {
     display: block;
+    width: 100%;
   }
 
   button {
@@ -188,10 +195,12 @@
   z-index: -1;
   box-shadow: 0 0 10px rgba(#000, 0.25);
   cursor: default;
+  max-width: 100%;
 
   @include breakpoint($large) {
     display: block;
     position: relative;
+    width: 100%;
     margin: 0;
     padding: 0;
     border: 0;
@@ -234,11 +243,15 @@
   }
 
   li {
-    white-space: nowrap;
+    white-space: normal;
+    max-width: 100%;
+    overflow-wrap: anywhere;
+    word-break: normal;
   }
 
   a {
     display: block;
+    max-width: 100%;
     margin-bottom: 5px;
     padding-right: 5px;
     padding-top: 2px;
@@ -246,6 +259,8 @@
     color: inherit;
     font-size: $type-size-5;
     text-decoration: none;
+    white-space: normal;
+    overflow-wrap: anywhere;
 
     &:hover {
       text-decoration: underline;
