@@ -18,13 +18,19 @@ redirect_from:
 
 ## 🚀 News
 
-> **June. 2026**: Ms. Wan Zhang joined our group as a Research Assistant. 🎉
+> **Sep. 2026**: Mr. Binwen Zeng joined our group as a PhD student, co-supervised with Prof. Tsz Woon Benedict Lo. 🎉
+
+> **Sep. 2026**: Ms. Lei Xie joined our group as a PhD student, co-supervised with Prof. Ka-fu Joseph Yung. 🎉
+
+> **Sep. 2026**: Mr. Feixuan Li joined our group as a Research Assistant, based at DYBRI. 🎉
+
+> **Sep. 2026**: Dr. Jiawei Zhao joined Northwestern Polytechnical University as a Professor. We thank him for his contributions to the group and wish him every success in his new position. 🎉
+
+> **June. 2026**: Ms. Wan Zhang joined our group as a Research Assistant, based at DYBRI. 🎉
 
 > **May. 2026**: Dr. Jiawei Zhao joined our group as a short-term Research Fellow. 🎉
 
 > **May. 2026**: Dr. Xuezhen Feng joined our group as a Postdoctoral Research Fellow. 🎉
-
-> **Feb. 2026**: Dr. Zheng Zhou joined our group as a Postdoctoral Research Fellow. 🎉
 
 > **Jan. 2026**: Dr. Lingfeng Jia joined our group as a Postdoctoral Research Fellow. 🎉
 
@@ -56,6 +62,26 @@ To decode structure-activity relationships, I have developed an integrated synch
 This enables tracking of electronic-structural dynamics and host-guest synergies under operando conditions.
 
 ---
+
+<span class='anchor' id='our-team'></span>
+
+## 👥 Our Team
+
+### Postdoctoral Research Fellows
+- **Dr. Liu Biyuan** — Postdoctoral Research Fellow 
+- **Dr. Lingfeng Jia** — Postdoctoral Research Fellow
+- **Dr. Xuezhen Feng** — Postdoctoral Research Fellow
+
+### PhD Students
+- **Mr. Binwen Zeng** — PhD Student *(co-supervised with Prof. Tsz Woon Benedict Lo)*
+- **Ms. Lei Xie** — First-year PhD Student *(co-supervised with Prof. Ka-fu Joseph Yung)*
+
+### Research Assistants
+- **Ms. Wan Zhang** — Research Assistant *(Base: DYBRI)*
+- **Mr. Feixuan Li** — Research Assistant *(Base: DYBRI)*
+
+---
+
 
 
 <span class='anchor' id='work-experience'></span>
@@ -246,8 +272,9 @@ My work features high-impact publications in prestigious journals, including ***
 ## 💰 Funding and Beamtime
 
 ### Research Grants
--- PolyU Start-up Fund, PI, 2025-2026
--- Presidential Global Impact Postdoctoral Fellowship Scheme, Co-PI, 2027-2030, 1.58 Million
+-- National Natural Science Foundation of China (NSFC) Young Scientists Fund (Category C), PI, 2027-2030, RMB 300,000
+-- Presidential Global Impact Postdoctoral Fellowship Scheme, Co-PI, 2027-2030, HKD 1,580,000
+-- PolyU Start-up Fund, PI, 2025-2027, HKD 300,000
 
 ---
 
