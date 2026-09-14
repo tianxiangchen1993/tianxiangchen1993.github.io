@@ -130,4 +130,4 @@ author_profile: true
 
 54. Guo, Y., **Chen, T.**, Liu, Q., Zhang, Z., Fang, X. "Insight into the Enhanced Photocatalytic Activity of Potassium and Iodine Codoped Graphitic Carbon Nitride Photocatalysts." **J. Phys. Chem. C**, 2016, 120(44), 25328–25337. [[DOI](https://doi.org/10.1021/acs.jpcc.6b06921)]
 
-55. "Programmable Guest-Induced 5-Phase-Transition Topological Reconstructions of Cobalt Formate Metal–Organic Frameworks." **Adv. Sci.**, 2026, Early View, e77629. [Collaborative publication; **Tianxiang Chen** is a co-author.] [[DOI](https://doi.org/10.1002/advs.77629)]
+55. Tao, Z., Li, J., Ling, J., **Chen, T.**, Yu, W.-Y., Lin, C., Lo, T. W. B. "Programmable Guest-Induced 5-Phase-Transition Topological Reconstructions of Cobalt Formate Metal–Organic Frameworks." **Adv. Sci.**, 2026, Early View, e77629. [[DOI](https://doi.org/10.1002/advs.77629)]
