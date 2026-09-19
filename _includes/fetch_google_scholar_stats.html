@@ -5,7 +5,15 @@
 
         if (pageContent && pageHeading && pageHeading.textContent.trim() === 'Publications') {
             var publicationCountMatch = pageContent.textContent.match(/(\d+)\s+peer-reviewed publications/i);
-            var publicationCount = publicationCountMatch ? publicationCountMatch[1] : '—';
+            var primaryCountMatch = pageContent.textContent.match(/(\d+)\s+first,\s*co-first,\s*or\s*corresponding-author papers/i);
+            var publicationCount = publicationCountMatch ? parseInt(publicationCountMatch[1], 10) : null;
+            var primaryCount = primaryCountMatch ? parseInt(primaryCountMatch[1], 10) : null;
+            var collaborationCount = publicationCount !== null && primaryCount !== null
+                ? publicationCount - primaryCount
+                : null;
+            var publicationSplit = primaryCount !== null && collaborationCount !== null
+                ? primaryCount + ' / ' + collaborationCount
+                : '—';
 
             var metricsTable = `
                 <table style="width:100%; table-layout:fixed; text-align:center; margin:1.25rem 0 0.5rem;">
@@ -18,7 +26,10 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td style="text-align:center; font-size:1.35em;"><strong>${publicationCount}</strong></td>
+                            <td style="text-align:center;">
+                                <div style="font-size:1.35em;"><strong>${publicationSplit}</strong></div>
+                                <div style="font-size:0.72em; line-height:1.25; margin-top:0.2rem;">First/Co-first/Corresponding / Collaborations</div>
+                            </td>
                             <td style="text-align:center; font-size:1.35em;"><strong id="total_cit">—</strong></td>
                             <td style="text-align:center; font-size:1.35em;"><strong id="h_index">—</strong></td>
                         </tr>
@@ -34,17 +45,7 @@
             });
 
             if (summaryParagraph) {
-                var publicationSummary = Array.prototype.find.call(summaryParagraph.querySelectorAll('strong'), function (strongElement) {
-                    return /peer-reviewed publications/i.test(strongElement.textContent);
-                });
-
-                if (publicationSummary) {
-                    var nextNode = publicationSummary.nextSibling;
-                    publicationSummary.remove();
-                    if (nextNode && nextNode.nodeName === 'BR') {
-                        nextNode.remove();
-                    }
-                }
+                summaryParagraph.remove();
             }
         }
 
