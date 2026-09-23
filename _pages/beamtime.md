@@ -11,12 +11,13 @@ author_profile: true
 
 | Approved Allocations | Total Approved Beamtime | Facilities |
 | :---: | :---: | :---: |
-| **5** | **120 h** | **3** |
+| **6** | **144 h** | **4** |
 
 ## Approved Beamtime
 
 | Facility | Beamline / Technique | Role | Awarded Beamtime |
 | :--- | :--- | :---: | :---: |
+| Hefei Light Source (HLS), Hefei | **XMCD-b Soft X-ray Magnetic Circular Dichroism** | PI | **24 h** |
 | High Energy Photon Source (HEPS), Beijing | **ID46 X-ray Absorption Spectroscopy** | PI | **24 h** |
 | Shanghai Synchrotron Radiation Facility (SSRF) | **BL01B Time-Resolved Spectroscopy & Microscopy Infrared Beamline** | PI | **24 h** |
 | National Synchrotron Radiation Research Center (NSRRC), Taiwan | **TPS 19A1 XRD** | PI | **24 h** |
