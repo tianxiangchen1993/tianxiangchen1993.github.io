@@ -69,7 +69,7 @@ Mr. Binwen Zeng · Ms. Lei Xie
 **Research Assistants**  
 Ms. Wan Zhang · Mr. Feixuan Li
 
-[Meet the group →](/people/)
+[Meet the group →](/team/)
 
 ---
 
