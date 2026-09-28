@@ -7,6 +7,8 @@
 
 # Site Settings
 title                    : "Adaptive Catalysis Group"
+url                      : "https://tianxiangchen1993.github.io"
+baseurl                  : ""
 description              : "Revealing and controlling dynamic catalyst evolution through atomically precise design and operando structural characterization."
 repository               : "tianxiangchen1993/tianxiangchen1993.github.io"
 google_scholar_stats_use_cdn : false
