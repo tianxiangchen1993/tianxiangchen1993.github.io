@@ -1,11 +1,13 @@
 ---
-permalink: /people/
-title: "People"
-excerpt: "Members of the Adaptive Catalysis Group."
+permalink: /team/
+title: "Team"
+excerpt: "Meet the members of the Adaptive Catalysis Group at The Hong Kong Polytechnic University."
 author_profile: true
+redirect_from:
+  - /people/
 ---
 
-# People
+# Team
 
 ## Principal Investigator
 
