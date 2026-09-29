@@ -75,7 +75,7 @@ Ms. Wan Zhang · Mr. Feixuan Li
 
 ## Teaching
 
-At PolyU, I coordinate the chemistry laboratory component of **ABCT1103 General Laboratory Techniques and Safety** (2026/27) and coordinated **ABCT1D01 Chemistry and Modern Living** in Summer 2026. My teaching emphasizes careful measurement, independent data analysis, and conclusions supported by evidence.
+At PolyU, I coordinate the chemistry laboratory component of **ABCT1103 General Laboratory Techniques and Safety** (2026/27) and coordinated **ABCT1D01 Chemistry and Modern Living** in 2025/26 Semester 3 (Summer 2026). My teaching emphasizes careful measurement, independent data analysis, and conclusions supported by evidence.
 
 [Teaching experience and approach →](/teaching/) · [ABCT1103 chemistry lab guide ↗](https://abct1103-chemistry-lab.tianxiangchen1993.chatgpt.site/)
 

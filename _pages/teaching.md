@@ -25,7 +25,7 @@ I coordinate the chemistry side of this course, including the organization of fi
 
 ### ABCT1D01 — Chemistry and Modern Living
 
-**Summer 2026 · Course coordination**
+**2025/26 Semester 3 (Summer 2026) · Course coordination**
 
 I coordinated the summer offering of this course, including arrangements for the quiz and poster presentation. The subject connects chemical concepts to questions in modern life.
 
