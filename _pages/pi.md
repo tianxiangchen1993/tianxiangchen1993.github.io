@@ -1,11 +1,11 @@
 ---
 permalink: /pi/
-title: "Principal Investigator"
-excerpt: "Tianxiang Chen, Principal Investigator of the Adaptive Catalysis Group."
+title: "About Me"
+excerpt: "About Tianxiang Chen and his research profile."
 author_profile: true
 ---
 
-# Principal Investigator
+# About Me
 
 ## Dr. Tianxiang Chen
 
