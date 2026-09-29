@@ -81,6 +81,14 @@ At PolyU, I coordinate the chemistry laboratory component of **ABCT1103 General 
 
 ---
 
+## Custom Tools
+
+I build AI-assisted research utilities for XAFS sample preparation and total-scattering data analysis. The collection currently includes an online XAFS pellet calculator and a PDFgetX3 graphical interface.
+
+[Explore custom tools →](/tools/)
+
+---
+
 ## Research Support
 
 Current research support includes:
