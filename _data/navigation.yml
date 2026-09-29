@@ -21,5 +21,8 @@ main:
   - title: "PI"
     url: "/pi/"
 
+  - title: "Teaching"
+    url: "/teaching/"
+
   - title: "Join Us"
     url: "/join-us/"
