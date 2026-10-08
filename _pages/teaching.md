@@ -3,6 +3,8 @@ permalink: /teaching/
 title: "Teaching"
 excerpt: "Teaching approach, course responsibilities, and chemistry laboratory learning resources of Dr. Tianxiang Chen at The Hong Kong Polytechnic University."
 author_profile: true
+published: false
+sitemap: false
 ---
 
 # Teaching
