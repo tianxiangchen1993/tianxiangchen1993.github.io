@@ -3,6 +3,8 @@ permalink: /tools/
 title: "Custom Tools"
 excerpt: "AI-assisted research tools developed by Tianxiang Chen for XAFS sample preparation and pair distribution function analysis."
 author_profile: true
+published: false
+sitemap: false
 ---
 
 # Custom Tools
