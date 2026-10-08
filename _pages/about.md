@@ -71,21 +71,7 @@ Ms. Wan Zhang · Mr. Feixuan Li
 
 [Meet the group →](/team/)
 
----
 
-## Teaching
-
-At PolyU, I coordinate the chemistry laboratory component of **ABCT1103 General Laboratory Techniques and Safety** (2026/27) and coordinated **ABCT1D01 Chemistry and Modern Living** in 2025/26 Semester 3 (Summer 2026). My teaching emphasizes careful measurement, independent data analysis, and conclusions supported by evidence.
-
-[Teaching experience and approach →](/teaching/) · [ABCT1103 chemistry lab guide ↗](https://abct1103-chemistry-lab.tianxiangchen1993.chatgpt.site/)
-
----
-
-## Custom Tools
-
-I build AI-assisted research utilities for XAFS sample preparation and total-scattering data analysis. The collection currently includes an online XAFS pellet calculator and a PDFgetX3 graphical interface.
-
-[Explore custom tools →](/tools/)
 
 ---
 
