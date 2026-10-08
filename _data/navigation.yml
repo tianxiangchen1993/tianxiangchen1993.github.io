@@ -21,11 +21,5 @@ main:
   - title: "About Me"
     url: "/pi/"
 
-  - title: "Teaching"
-    url: "/teaching/"
-
-  - title: "Custom Tools"
-    url: "/tools/"
-
   - title: "Join Us"
     url: "/join-us/"
