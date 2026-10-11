@@ -66,7 +66,7 @@ author_profile: true
 
 22. Luo, B., Wu, Y., **Chen, T.**, Marini, C., Villalobos-Portillo, E., Dong, L., Li, D., Li, B., He, H., Chen, Z. "Tailoring Atomic-Level Electron Redistribution of Metal Phosphides/Oxides Heterostructural Catalyst for Efficient Alkaline Freshwater/Seawater Hydrogen Evolution." **J. Mater. Sci. Technol.**, 2027, 278, 114–122. [[DOI](https://doi.org/10.1016/j.jmst.2026.05.018)]
 
-23. Chen, K., Yang, T., Xu, J., Liu, Y., Wu, H., Wang, Y., Wu, Z., Pei, Z., Chen, S., **Chen, T.**, Tan, H., Zhou, Z. "Direct Cl–Cl Coupling Over Atomically Dispersed Ir2 Pairs for Efficient Chlorine Electrosynthesis." **Angew. Chem. Int. Ed.**, 2026, e4415455. [[DOI](https://doi.org/10.1002/anie.4415455)]
+23. Chen, K., Yang, T., Xu, J., Liu, Y., Wu, H., Wang, Y., Wu, Z., Pei, Z., Chen, S., **Chen, T.**, Tan, H., Zhou, Z. "Direct Cl–Cl Coupling Over Atomically Dispersed Ir2 Pairs for Efficient Chlorine Electrosynthesis." **Angew. Chem. Int. Ed.**, 2026, 65(40), e4415455. [[DOI](https://doi.org/10.1002/anie.4415455)]
 
 24. He, F., Li, W., **Chen, T.**, Skorynina, A., Liu, L. "Harnessing Reaction-Driven Structural Evolution of Zeolite-Supported Gold Catalyst for Selective Oxidation Reactions." **J. Am. Chem. Soc.**, 2026, 148(32), 34456–34471. [[DOI](https://doi.org/10.1021/jacs.6c08430)]
 
@@ -92,7 +92,7 @@ author_profile: true
 
 35. Li, Y., Li, X., Zhang, H., He, J., Su, K., **Chen, T.**, Zhang, R., Xu, H., Wu, Y., Yang, W., Liu, L. "Tuning the Spatial Distribution and Chemical Nature of Acid Sites in MCM-22 Zeolite by Atomically Dispersed Lanthanum Species for Alkylation of 2-Methylnaphthalene." **ACS Catal.**, 2025, 15(2), 623–638. [[DOI](https://doi.org/10.1021/acscatal.4c07304)]
 
-36. Zhang, J., Ding, H., Hui, H., Yao, Q., Feng, W., **Chen, T.**, Lo, T. W. B., Ren, Y., Ye, L., Yue, B., He, H. "Confined Cu Single Sites in ZSM-5 for Photocatalytic Hydroxylation of Benzene to Phenol." **Small**, 2024, 20(49), 2405150. [[DOI](https://doi.org/10.1002/smll.202405150)]
+36. Zhang, J., Ding, H., Hui, H., Yao, Q., Feng, W., **Chen, T.**, Lo, T. W. B., Ren, Y., Ye, L., Yue, B., He, H. "Confined Cu Single Sites in ZSM-5 for Photocatalytic Hydroxylation of Benzene to Phenol." **Small**, 2024, 20(49), e2405150. [[DOI](https://doi.org/10.1002/smll.202405150)]
 
 37. Wun, C. K. T., Wang, Z., Kawaguchi, S., Kobayashi, S., Wu, T.-S., **Chen, T.**, Lin, C., Tang, C. C., Yin, J., Lo, T. W. B. "Investigating Synergistic Cooperativity of Metal-Brønsted Acid Site Pair in MFI-Type Zeolites by Synchrotron X-Ray Powder Diffraction." **J. Mater. Chem. A**, 2024, 12(37), 25442–25448. [[DOI](https://doi.org/10.1039/D4TA04737K)]
 
