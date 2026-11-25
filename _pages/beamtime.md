@@ -24,7 +24,7 @@ author_profile: true
 | 2026 | National Synchrotron Radiation Research Center (NSRRC), Taiwan | **TPS 44A1 XAS** | PI | **24 h** |
 | 2026 | National Synchrotron Radiation Research Center (NSRRC), Taiwan | **TLS 01C1 XAS** | PI | **24 h** |
 | 2026 | SPring-8, Japan | **BL08B2-P XAFS** | PI | **48 h** |
-| SPring-8, Japan | **BL08B2-P XAFS** | PI | **24 h** |
+| 2026 | SPring-8, Japan | **BL08B2-P XAFS** | PI | **24 h** |
 
 ---
 
