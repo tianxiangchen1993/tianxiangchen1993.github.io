@@ -23,8 +23,8 @@ author_profile: true
 | National Synchrotron Radiation Research Center (NSRRC), Taiwan | **TPS 19A1 XRD** | PI | **24 h** |
 | National Synchrotron Radiation Research Center (NSRRC), Taiwan | **TPS 44A1 XAS** | PI | **24 h** |
 | National Synchrotron Radiation Research Center (NSRRC), Taiwan | **TLS 01C1 XAS** | PI | **24 h** |
-| SPring-8, Japan | **BL08B2-P XAFS** | PI | **6 shifts (48 h)** |
-| SPring-8, Japan | **BL08B2-P XAFS** | PI | **3 shifts (24 h)** |
+| SPring-8, Japan | **BL08B2-P XAFS** | PI | **48 h** |
+| SPring-8, Japan | **BL08B2-P XAFS** | PI | **24 h** |
 
 ---
 
