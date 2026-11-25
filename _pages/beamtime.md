@@ -28,7 +28,7 @@ author_profile: true
 
 ---
 
-The two SPring-8 proposals (2026B2310 and 2026B2230) were approved on 25 November 2026, with a combined allocation of 9 shifts (72 h). One shift corresponds to 8 hours. Detailed beamtime scheduling is expected in early December 2026.
+The two SPring-8 allocations were approved on 25 November 2026, with a combined total of 72 h. Detailed beamtime scheduling is expected in early December 2026.
 
 The group uses competitive synchrotron access to investigate catalyst structure, dynamic reconstruction, and structure–function relationships under relevant reaction conditions.
 
