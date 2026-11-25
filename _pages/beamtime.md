@@ -23,8 +23,8 @@ author_profile: true
 | National Synchrotron Radiation Research Center (NSRRC), Taiwan | **TPS 19A1 XRD** | PI | **24 h** |
 | National Synchrotron Radiation Research Center (NSRRC), Taiwan | **TPS 44A1 XAS** | PI | **24 h** |
 | National Synchrotron Radiation Research Center (NSRRC), Taiwan | **TLS 01C1 XAS** | PI | **24 h** |
-| SPring-8, Japan | **BL08B2-P XAFS** — 2026B2310, *Resolving the local structure of programmable metal ensembles across catalyst supports by ex situ XAFS* (Proposal Reference No. 71790) | PI | **6 shifts (48 h)** |
-| SPring-8, Japan | **BL08B2-P Ir L3-edge XAFS** — 2026B2230, *Ir L3-edge XAFS of salt-flux iridium oxides calcined at 300–800 °C: the local structure behind an OER activity maximum, mapped with an L18 orthogonal design* (Proposal Reference No. 71738) | PI | **3 shifts (24 h)** |
+| SPring-8, Japan | **BL08B2-P XAFS** (Proposal No. 2026B2310, Reference No. 71790) | PI | **6 shifts (48 h)** |
+| SPring-8, Japan | **BL08B2-P Ir L3-edge XAFS** (Proposal No. 2026B2230, Reference No. 71738) | PI | **3 shifts (24 h)** |
 
 ---
 
