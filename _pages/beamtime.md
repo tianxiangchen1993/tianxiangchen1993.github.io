@@ -15,15 +15,15 @@ author_profile: true
 
 ## Approved Beamtime
 
-| Facility | Beamline / Technique | Role | Awarded Beamtime |
-| :--- | :--- | :---: | :---: |
-| Hefei Light Source (HLS), Hefei | **XMCD-b Soft X-ray Magnetic Circular Dichroism** | PI | **24 h** |
-| High Energy Photon Source (HEPS), Beijing | **ID46 X-ray Absorption Spectroscopy** | PI | **24 h** |
-| Shanghai Synchrotron Radiation Facility (SSRF) | **BL01B Time-Resolved Spectroscopy & Microscopy Infrared Beamline** | PI | **24 h** |
-| National Synchrotron Radiation Research Center (NSRRC), Taiwan | **TPS 19A1 XRD** | PI | **24 h** |
-| National Synchrotron Radiation Research Center (NSRRC), Taiwan | **TPS 44A1 XAS** | PI | **24 h** |
-| National Synchrotron Radiation Research Center (NSRRC), Taiwan | **TLS 01C1 XAS** | PI | **24 h** |
-| SPring-8, Japan | **BL08B2-P XAFS** | PI | **48 h** |
+| Year | Facility | Beamline / Technique | Role | Awarded Beamtime |
+| :---: | :--- | :--- | :---: | :---: |
+| 2026–2028 | Hefei Light Source (HLS), Hefei | **XMCD-b Soft X-ray Magnetic Circular Dichroism** | PI | **24 h** |
+| 2026–2028 | High Energy Photon Source (HEPS), Beijing | **ID46 X-ray Absorption Spectroscopy** | PI | **24 h** |
+| 2026–2028 | Shanghai Synchrotron Radiation Facility (SSRF) | **BL01B Time-Resolved Spectroscopy & Microscopy Infrared Beamline** | PI | **24 h** |
+| 2026 | National Synchrotron Radiation Research Center (NSRRC), Taiwan | **TPS 19A1 XRD** | PI | **24 h** |
+| 2026 | National Synchrotron Radiation Research Center (NSRRC), Taiwan | **TPS 44A1 XAS** | PI | **24 h** |
+| 2026 | National Synchrotron Radiation Research Center (NSRRC), Taiwan | **TLS 01C1 XAS** | PI | **24 h** |
+| 2026 | SPring-8, Japan | **BL08B2-P XAFS** | PI | **48 h** |
 | SPring-8, Japan | **BL08B2-P XAFS** | PI | **24 h** |
 
 ---
