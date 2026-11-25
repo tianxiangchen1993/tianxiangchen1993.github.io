@@ -11,7 +11,7 @@ author_profile: true
 
 | Approved Allocations | Total Approved Beamtime | Facilities |
 | :---: | :---: | :---: |
-| **6** | **144 h** | **4** |
+| **8** | **216 h** | **5** |
 
 ## Approved Beamtime
 
@@ -23,8 +23,12 @@ author_profile: true
 | National Synchrotron Radiation Research Center (NSRRC), Taiwan | **TPS 19A1 XRD** | PI | **24 h** |
 | National Synchrotron Radiation Research Center (NSRRC), Taiwan | **TPS 44A1 XAS** | PI | **24 h** |
 | National Synchrotron Radiation Research Center (NSRRC), Taiwan | **TLS 01C1 XAS** | PI | **24 h** |
+| SPring-8, Japan | **BL08B2-P XAFS** — 2026B2310, *Resolving the local structure of programmable metal ensembles across catalyst supports by ex situ XAFS* (Proposal Reference No. 71790) | PI | **6 shifts (48 h)** |
+| SPring-8, Japan | **BL08B2-P Ir L3-edge XAFS** — 2026B2230, *Ir L3-edge XAFS of salt-flux iridium oxides calcined at 300–800 °C: the local structure behind an OER activity maximum, mapped with an L18 orthogonal design* (Proposal Reference No. 71738) | PI | **3 shifts (24 h)** |
 
 ---
+
+The two SPring-8 proposals (2026B2310 and 2026B2230) were approved on 25 November 2026, with a combined allocation of 9 shifts (72 h). One shift corresponds to 8 hours. Detailed beamtime scheduling is expected in early December 2026.
 
 The group uses competitive synchrotron access to investigate catalyst structure, dynamic reconstruction, and structure–function relationships under relevant reaction conditions.
 
